@@ -1,0 +1,1344 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to a book which Samuel Eaton put up to the Parliament: which he saith he is a teacher of the Church of Christ, heretofore meeting at Ducken-field, now at Stockport in Cheshire; and he cals the title of his book Quakers confuted. Moses who was a judg quaked and trembled, David a king in Israel quaked and trembled, and Solomon who was a king trembled, and Daniel a servant of the most high God trembled, ... And these heard the voice of God, and thou that writest, thou mayest say thou hast confuted all them; for he that is against them, is against us, and he that is against us, is against them, for the same power is witnessed; but thou Eaton, who saith thou art a teacher of the church at Duckenfield, who saith thou hast heard the voice of the living God, and that such a voice as this, as comes immediately from God, you have not heard, ... And Isaiah saith, hear the word of the Lord all ye that tremble at his word; and this is the man that I do regard, saith the Lord, that is of a contrite heart, and trembleth at my word; but such Eaton and his church doth not regard, but custs out friends of the Lord from them, whom the world calls Quakers.</title>
+            <author>Camm, John, 1604?-1656.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 119 KB of XML-encoded text transcribed from 27 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79520</idno>
+            <idno type="STC">Wing C389</idno>
+            <idno type="STC">Thomason E735_9</idno>
+            <idno type="STC">ESTC R206969</idno>
+            <idno type="EEBO-CITATION">99866047</idno>
+            <idno type="PROQUEST">99866047</idno>
+            <idno type="VID">118307</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79520)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118307)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 113:E735[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to a book which Samuel Eaton put up to the Parliament: which he saith he is a teacher of the Church of Christ, heretofore meeting at Ducken-field, now at Stockport in Cheshire; and he cals the title of his book Quakers confuted. Moses who was a judg quaked and trembled, David a king in Israel quaked and trembled, and Solomon who was a king trembled, and Daniel a servant of the most high God trembled, ... And these heard the voice of God, and thou that writest, thou mayest say thou hast confuted all them; for he that is against them, is against us, and he that is against us, is against them, for the same power is witnessed; but thou Eaton, who saith thou art a teacher of the church at Duckenfield, who saith thou hast heard the voice of the living God, and that such a voice as this, as comes immediately from God, you have not heard, ... And Isaiah saith, hear the word of the Lord all ye that tremble at his word; and this is the man that I do regard, saith the Lord, that is of a contrite heart, and trembleth at my word; but such Eaton and his church doth not regard, but custs out friends of the Lord from them, whom the world calls Quakers.</title>
+                  <author>Camm, John, 1604?-1656.</author>
+               </titleStmt>
+               <extent>55, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Giles Calvert, at the black Spread-Eagle, at the west end of Pauls,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "may. 13.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Eaton, Samuel, 1596?-1665. --  Quakers confuted --  Early works to 1800.</term>
+               <term>Quakers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118307:1" rendition="simple:additions"/>
+            <p>An Anſwer to a Book WHICH <hi>SAM<g ref="char:V">Ʋ</g>EL EATON</hi> Put up to the PARLIAMENT: Which he ſaith he is a Teacher of the Church of Chriſt, heretofore meeting at Ducken<g ref="char:EOLhyphen"/>field, now at Stockport in Cheſhire; And he cals the Ti<g ref="char:EOLhyphen"/>tle of his Book QUAKERS CONFUTED.</p>
+            <p>
+               <hi>Moſes</hi> who was a Judg quaked and trembled, <hi>David</hi> a King in <hi>Iſrael</hi> quaked and trembled, and <hi>Solomon</hi> who was a King trembled, and <hi>Daniel</hi> a ſervant of the moſt high God trembled, and <hi>Jer.</hi> the Lords Prophet his bones ſhaked, and <hi>Habak.</hi> a Prophet of the Lord his lips quivered, and his belly ſhoke, and <hi>Paul</hi> a Miniſter made by the will of God trembled, and <hi>Job</hi> the ſervant of the moſt high God, who ſaw God trembled: And theſe ſaw God, and many other of our Wit<g ref="char:EOLhyphen"/>neſſes vve might bring.</p>
+            <p>
+               <hi>And theſe heard the voice of God, and thou that writeſt, thou mayeſt ſay thou haſt confuted all them; for he that is againſt them, is againſt us, and he that is againſt us, is againſt them, for the ſame power is witneſſed; b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t thou</hi> Eaton, <hi>who ſaith thou art a Teacher of the Church at</hi> Duckenfield, <hi>who ſaith thou haſt not heard the voice of the living God, and that ſuch a voice as this, as comes immediately from God, you have not heard, and ſuch an inſpiration as this you have not received, nor do you wait for it.</hi>
+            </p>
+            <p>
+               <hi>And</hi> Iſaiah <hi>ſaith, Hear the Word of the Lord all ye that tremble at his Word; and this is the man that I do regard, ſaith the Lord, that is of a contrite heart, and trembleth at my Word; but ſuch</hi> Eaton <hi>and his Church doth not regard, but cuſts out friends of the Lord from them, whom the world calls</hi> QUAKERS.</p>
+            <p>
+               <hi>London:</hi> Printed for <hi>Giles Calvert,</hi> at the black Spread-Eagle, at the Weſt end of <hi>Pauls,</hi> 1654.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:118307:2"/>
+            <pb n="3" facs="tcp:118307:2"/>
+            <head>To the Reader.</head>
+            <p>WEe hearing of a Paper which was ſent to a Mem<g ref="char:EOLhyphen"/>ber of a Church, (as they call it) at <hi>Duckenfield,</hi> or that ways; of which one <hi>Eaton</hi> is the Paſtor; and in that Paper we find many ſlanderous ſpeeches, and falſe accuſations againſt us, whom the world ſcornfully calls <hi>Qua<g ref="char:EOLhyphen"/>kers.</hi> So the Paper being ſent to us, we ſeeing many lies and falſe reports, we wrote ſome things to the paper, to clear our ſelves from lies and ſlanders: And that generation which ever doth lye and ſlander, and ſent it back to the Church, as they call it, and certain Queri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s to be anſwered: For had the Church, or the Paſtor of it, as they call it, ſent the Paper to us, it had been honeſt; but writing to others, not ſending to us, we ſee the deceit that would ſlander the innocent privily; but to us it is none, becauſe it doth not touch us: And the ſaid Church, and <hi>Eaton,</hi> which the Queries were ſent to, have writ forth a Book, and ſent to the Parliament, and ſo not ſent it to us: Let all people take notice, if here be not pride and hypocri<g ref="char:EOLhyphen"/>ſie; Had they ſent it to us, it had been honeſt: and in it we find much wreſting of the Scripture, multitudes of conceivings, and conſequences, and contradicting Chriſts words, and Gods words, which were ſpoken forth by his Prophets, as hereafter ſhall be made appear.</p>
+         </div>
+      </front>
+      <body>
+         <div type="answer">
+            <pb n="4" facs="tcp:118307:3"/>
+            <head>An Anſwer to a BOOK, Entitled, The QUAKERS CONFUTED.</head>
+            <p>A Reply to the Anſwers of ſome Queries in a Book en<g ref="char:EOLhyphen"/>titled the Quakers confuted, ſet forth by <hi>Samuel Eaton,</hi> a Teacher of the Church of Chriſt, (as he ſaith) heretofore meeting at <hi>Duckenfield,</hi> now at <hi>Stopworth</hi> in <hi>Cheſhire,</hi> which was directed to the Parliament of this Nation, ſitting at <hi>Weſtminſter:</hi> To them I find much flattering and crouching, but under whoſe tongue there is ve<g ref="char:EOLhyphen"/>nome, under a colour, as contending for the faith, which he knows nothing of, and them that do, will trample his dirty ſtuff under their feet: and the ſaid <hi>Eaton</hi> under a colour would make people believe he appears for God and Chriſt, yet his in<g ref="char:EOLhyphen"/>tent is to perſecute and incenſe, and provoke people to wrath againſt thoſe people he calls Quakers: but the Lord is their de<g ref="char:EOLhyphen"/>fence, and heard ſuch in all Ages, as in the dayes of <hi>Iſaiah, Da<g ref="char:EOLhyphen"/>vid,</hi> and the reſt, who were of a contrite and humble ſpirit, and t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>embled at his word, which the Lord would not deſpiſe, but regard; but the world would not, but deſpiſe, as <hi>Eaton,</hi> and the world doth now.</p>
+            <p>Object. <hi>O</hi> Eaton, <hi>thou lyar, Doth Paul, and Chriſt, compare them that trembled at the Word of the Lord, as wolves, and Satan transforming himſelf into an Angel of light, and ſo into Miniſters of Righteouſneſs.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> O thou lyar, Doth Satan transform himſelf into Mi<g ref="char:EOLhyphen"/>niſters of Righteouſneſs? Here I charge thee in the Preſence of the Lord to be a lyar, and perverts the Apoſtles words, they may transform them as the Miniſters of Righteouſneſs, but not into Miniſters of Righteouſneſs, and this is thy Quakers con<g ref="char:EOLhyphen"/>futed.</p>
+            <pb n="5" facs="tcp:118307:3"/>
+            <p> Object. <hi>And thou ſayeſt that John makes them all Anti<g ref="char:EOLhyphen"/>chriſts.</hi>
+            </p>
+            <p>
+               <hi>Reyly.</hi> This ſhall ſtand for thy own condition, who doth op<g ref="char:EOLhyphen"/>poſe Chriſt as thou declares in this Book, and as touching Sa<g ref="char:EOLhyphen"/>tans transforming himſelf into an Angel of light, this is thy own condition, and into the Miniſters of righteouſneſs, as thou ſayeſt, here thou haſt uttered forth thy lyes: And on touching Chriſts call ng them wolves, that is thy own condition, who art making war againſt the Lambs of Chriſt, and be ſilent, and ſlander thou not the Church of Chriſt: he need not have an outward power to maintain it that is diſperſed abroad in this Land, which doth torment thee; for its the pillar and ground of truth.</p>
+            <p>Object. <hi>Which ſows much corrupt ſeed.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> This is thy own condition, as thou haſt ſhewed in this Book, but that which thou calls corrupt is the Seed of God, and God will judge thee for thy blaſphemy, who art in errour. In this Book thou haſt ſown thy corrupt ſeed.</p>
+            <p>Object. <hi>Doctrine of Seducers.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> This is thy own condition, for ſuch practiſes we do abhor, and how fain wouldeſt thou raiſe a perſecution, and ſhew your ſelves zealous of his glory in theſe things, and ſaith, the Lord will bleſs you hence-forward: And the Magiſtrate is for praiſe to good works, and a terrou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to evil works, then will it take hold upon thee thou envious man, who art ſeeking after blood, as all thy generation did.</p>
+            <p>Object. <hi>Whereof thou art accuſing Apoſtacy from the true God, from the true faith, and from the true word.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> This is thy own condition.</p>
+            <p>Object. <hi>And thou ſayeſt. If there be ſorcery, and familiari<g ref="char:EOLhyphen"/>ty with the Devil, to be found among a people who challenge propriety in God.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> This is thy own condition: for them whom thou calls Quakers, doth own the true faith, and true Chriſt, and true God, and denys all ſuch filthy things.</p>
+            <p>Object. <hi>Firſt thou accuſeſt them, and ſaith, That it is held forth much of their doctrine, and practiſes, concerning re<g ref="char:EOLhyphen"/>velations, and immediate voyces, and againſt the holy Scrip<g ref="char:EOLhyphen"/>tures,
+<pb n="6" facs="tcp:118307:4"/>Chriſts Miniſters, Church, and Ordinances.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> And theſe are all lies; for Revelations we own ac<g ref="char:EOLhyphen"/>cording to the Scriptures, and immediate voyces. Chriſts Mi<g ref="char:EOLhyphen"/>niſters, Church, and Ordinances, we own according to the Scriptures: And, O man, lay thy hand upon thy mouth, and bluſh, and be aſhamed, for thy lyes; thou mayeſt be ſet up with the world, which lyeth in wickedneſs; but from God, thou lyar art turned, and muſt into the lake that burns.</p>
+            <p>And ſomething in anſwer to the ſtory or tale, which thou tells to the Chriſtian Reader, and many reports, reſpecting a people called Quakers, concerning ſorcery and witchcraft, be<g ref="char:EOLhyphen"/>ing among them.</p>
+            <p>Object. <hi>And thou ſayeſt, Thou metſt with a man, a Teacher to a people, about half a mile from</hi> Nottingam, <hi>and thou asked him, whether he did conceive that there was ſorcery among them; and he ſaid, Yea, that there was ſorcery among them.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> The chief Prieſts, ſuch as you did ever judge the Power of Chriſt to be of the Dev l, for it did ever overturn your Kingdom: O vain man, here thou haſt printed forth what he did conc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ive; and in your mind of conceiving lodgeth the ſpi<g ref="char:EOLhyphen"/>rit of ſorcery, and that which carries ſorcery, hearing and tell<g ref="char:EOLhyphen"/>ing of new things, as the <hi>Athens</hi> did, who ſhews thy ſelf ig<g ref="char:EOLhyphen"/>norant of the holy men of God, who were in trances, tremblings, and quakings.</p>
+            <p>Object. <hi>And as thou ſpeakeſt of a young man, which came twice or thrice to their meetings.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> Was he come to the trembling of Devils, and doſt thou and he blaſpheme that power, which made him to trem<g ref="char:EOLhyphen"/>ble? and this ſtory thou gives to the Reader, that all may ſee thy folly, which ſtory th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u receivedſt from the Min ſter, as thou calls them.</p>
+            <p>Object. <hi>And thou ſayeſt, thou thoughteſt to have nothing to do with that generation of men.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> Didſt thou not utter forth thy lyes and ſlanders in a pa<g ref="char:EOLhyphen"/>per? And doſt not thou utter forth thy lyes now, and ſo for the Truths ſake are we moved to write againſt thy lyes, which thou haſt printed in this paper?</p>
+            <pb n="7" facs="tcp:118307:4"/>
+            <p> Ob. <hi>And whereas thou tel'ſt the Parliament and Reader of another ſtory of a man and his Wife, and art troubled, be<g ref="char:EOLhyphen"/>cauſe he titled the Miniſters under the name of the Prieſts of the world, and Teachers of the world: Are you not ſuch, which ſay, you have not heard a voice ſpeak from Heaven, neither do you look for it, that ſuch a voice as this, that comes immediately from God, you have not heard; nor ſuch an inſpi<g ref="char:EOLhyphen"/>ration as this you do not wait for?</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> And here thou haſt cleared thy ſelf for being any Mini<g ref="char:EOLhyphen"/>ſter of God, and from having the Spirit of Inſpiration; and here thou art a Teacher of the world, which teacheth deceit, which denies perfection.</p>
+            <p>Ob. <hi>And thou art tormented, becauſe the ſaid</hi> Richard Waller <hi>affirmed, that he had his Teacher within him.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> And doth not the Scriptures witneſs the ſame? Ye need not that any man teach you, but as the anoynting which is within. And doth not the Prophet exhort them to ceaſe from man? and wouldeſt thou teach them to follow man? And doth not the Apoſtle bid them to take heed of the light within them, unt l the day dawn, and the Day-ſtar ariſe in their hearts? Here doſt not thou clear thy ſelf from the Spirit of the Prophets, and Chriſt, and the Apoſtles; and cannot indure the Doctrine of Chriſt, the Prophets, and the Apoſtles, which is the ſound Doctrine?</p>
+            <p>
+               <hi>Samuel Eaton.</hi>
+            </p>
+            <p>And the anſwer to the paper which thou accuſed the Qua<g ref="char:EOLhyphen"/>kers of, thou ſhalt find to be true, though thou canſt not own it with thy ſottiſh and ſenſual mind.</p>
+            <p>Ob. <hi>And thou ſay'ſt the Saints and the world may know what a people we are.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> Here thou put'ſt the Saints and the world both toge<g ref="char:EOLhyphen"/>ther; the world knows us not, but who are Saints witneſs us.</p>
+            <p>Ob. <hi>And thou ſayeſt, What little hope there is of any good to be wrought of any of them, what a people theſe are?</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> Thy teachings we deny, and thy diſcourſing upon the
+<pb n="8" facs="tcp:118307:5"/>Scriptures with corrupt mind we deny, but the Scriptures we own, they are ours; and ſo ſuch buſie minds, who are giving ſenſes and meanings to the Scriptures we deny, for they are of no private interpretation.</p>
+            <p>Ob. <hi>And thou ſayeſt, they pretend to ſpeak and act all by the Spirit, and if any one will try their Spirit that they ſpeak by, their reply is, That th y can neither witneſs Scripture nor Spirit.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> But what Scripture canſt thou witneſs, who denies the immediate Voice from God, and immediate Inſpiration? And thou ſayeſt, they encreaſe in number continually, and this tor<g ref="char:EOLhyphen"/>ments thee, and now thou comeſt to prophecy.</p>
+            <p>Ob. <hi>The time will come they ſhall proceed no further, but this is the falſe Prophet, The time is come that thou ſhalt pro<g ref="char:EOLhyphen"/>ceed no further, for thy folly is made manifeſt already, which is to the glory of God, renting thy Kingdom, and ſetting up his own Kingdom; ſo that the power and effectual working of God, which turns the mind of ſo many unto himſelf, from the world by his Spirit, and to the uniting their hearts together from the worlds Forms, Sects, and Opinions: And thou who denies the immediate Inſpiration, and immediate Voice from God, which thou haſt put up to the Magiſtrate, but God will daſh all the earthly Bonds aſunder with his immediate power and eternal Spirit, who denies the immediate voice, who lives in Errour and Hereſie, as thou haſt made it manifeſt: And this is in anſwer to the ſtories thou gav'st to the Parliament, and to the Chriſtian Reader.</hi>
+            </p>
+         </div>
+         <div type="answer">
+            <pb n="9" facs="tcp:118307:5"/>
+            <head>Samuel Eaton, <hi>now ſomething in Re<g ref="char:EOLhyphen"/>plication to thy</hi> anſwers <hi>of the</hi> Que<g ref="char:EOLhyphen"/>ries.</head>
+            <p>Que. FRiend the firſt Query which was put to thee was, <hi>Whether thou hadſt the eternal Spirit which gave forth the Scriptures, yea or no?</hi>
+            </p>
+            <p>Object. And in thy anſwer <hi>thou believes, that the Spirit of Chriſt dwells in Saints, yet thou aſſerts the Spirit of Chriſt to be diſtinct from the Saints, and the Saints from the Spirit.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> Here thou haſt cleered thy ſelf from the eternal Spirit that gave forth the Scriptures: The Query was put to thee, <hi>Whe<g ref="char:EOLhyphen"/>ther thou hadſt the eternal Spirit,</hi> who ſaith, The Spirit of Chriſt is diſtinct from the Saints. Let all people ſee if thy Spirit be not diſtinct from the Saints, and a lying Spirit, to ſay the Spirit of Chriſt is diſtinct from the Saints, when the Spirit that gave forth the Scriputre ſaith, which was in the Saints, they were led by the Spirit, and they had received the Spirit; and Chriſt ſaid, the Spirit of the Father ſpoke in them; and the A<g ref="char:EOLhyphen"/>poſtle ſaid, If you have not the ſame Spirit as raiſed up Chriſt, you are none of his.</p>
+            <p>Obj. And thou ſayeſt, <hi>The Spirit of Chriſt is diſtinct from the Saints.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> And the Miniſters of God ſaid they were in the Spirit; and here openly thou ſhew'ſt thy ſelf to be rambling up and down with thy own Spirit, and not guided by the Spirit of Je<g ref="char:EOLhyphen"/>ſus, but by the Spirit of Errour and confuſion; and this is the Record, God hath given us his Spirit, but this was not ſpoken in thy Generation, and ye are not in the fleſh, but in the Spi<g ref="char:EOLhyphen"/>rit; and thou ſay'ſt, they are diſtinct from it.</p>
+            <p>Obj. <hi>And thou ſayeſt the Spirit of Chriſt dwells in them, which Spirit is God, but thou dost not believe that there is any eſſential or perſonal unity between this eternal Spirit, and the Saints believers, for ſuch unity would either make the
+<pb n="10" facs="tcp:118307:6"/>Spirit and Believers ſome third things.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> Silence Fleſh, who art in confuſion, for thou haſt no<g ref="char:EOLhyphen"/>thing to do to talk of Unity, nor this eternal Spirit, which thou ſayeſt is God, and yet there is no eternal Unity with the eter<g ref="char:EOLhyphen"/>nal Spirit.</p>
+            <p>Query 2. <hi>Whether the Apoſtles did give a right meaning to the Scriptures, when they gave them forth, or left them to you to give the meaning of them, yea or no?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> And thy anſwer is, That in all the Scriptures they gave forth, had a meaning with thoſe Scriptures which they gave forth, yet not alwayes ſo plainly, that the meaning thereof might be rightly taken up by thoſe that read them, unleſs com<g ref="char:EOLhyphen"/>pared with ſome other Scriptures, which they alſo have given out, which have plainer ſenſe in them, and are helpful to ex<g ref="char:EOLhyphen"/>pound them.</p>
+            <p>
+               <hi>Rep.</hi> And hear thou leaves Spirit, and thy confuſed ſtuff is iſſued out of thy Bottle, who would make the Apoſtle a lyar, who uſed plainneſs of ſpeech, and ſo the Scriptures were of no private interpretation, nor came not by the will of man, which thou in thy will art giving ſenſes unto, who ſayeſt, it is left to you to find out the ſenſe and meaning, who ſaith, the letter contains contradictions; thou lyar, there is no contradictions in it, but the contradictions is in thy ſelf; for where the ſame Spirit is made manifeſt, as was in them that gave forth the Scri<g ref="char:EOLhyphen"/>ptures, it owne it without any of thy ſenſes and meanings, who art in the number of the Beaſt; here is wiſdome, let him that hath underſtanding count the number.</p>
+            <p>Obj. <hi>And whereas thou ſayeſt Chriſt commands to ſearch the Scriptures, becauſe the meaning lyeth deep in many places, yet by ſearching what Scriptures lay together ſpeak, the ſenſe may be gotten out.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> Here thou art a lyar; Did Chriſt bid them ſearch the Scriptures to find out the ſenſe of the Scriptures? Here thou add'ſt, to make people believe that there was life in the Scri<g ref="char:EOLhyphen"/>ptures, when Chriſt ſaith not ſo, but ſaith, <hi>Ye will not come unto me that ye might have life:</hi> And though they had the let<g ref="char:EOLhyphen"/>ter of the Scripture, yet they knew not Chriſt, therefore they were to come to him, that they might have life, which opens
+<pb n="11" facs="tcp:118307:6"/>the Scriptures without thy ſences or meanings, for they had thought to have found life in the Scriptures, as thou doſt.</p>
+            <p>Object. <hi>Another Scripture thou brings of Chriſt deſtroying this Temple, and in three daies raiſe it up again.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> And thou lyar, thou ſayeſt there is a ſenſe in theſe words; did he not ſpeak plainly? Here thou ſheweſt thy ſelf to be among them that gave a ſence upon his words, and could not underſtand his ſpeech, and as they did, ſo doſt thou, who canſt not underſtand plainneſs, and haſt cleared thy ſelf from that Spi<g ref="char:EOLhyphen"/>rit that ſpoke forth theſe words; and if you had that Spirit that gave forth the Scriptures, you need not bring Scripture to in<g ref="char:EOLhyphen"/>terpret Scripture, for the ſame Spirit that gave them forth, will open all again; but from this Spirit thou haſt cleared thy ſelf, and thou art unlearned without the life in thy own ſenſe and points.</p>
+            <p>Object. <hi>And again thou ſayeſt, they are not left to put your own ſenſe upon them.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> What is it but thy own ſence when thou ſayeſt, God doth not intend to teach immediate, or if it be not immediate, it is carnal, and natural: And the carnal man knows not the things that are of God, who lives in thy own ſence.</p>
+            <p>Quer. 3. <hi>Whether plagues be not added to them who adde to the Propheſies written in this Book, or whether his name be not to be diminiſhed out of the Book of life who diminiſheth, or whether you can witneſs this Name, yea, or no?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> And thy anſwer is nothing to purpoſe, or the Book of life, or the new name thou ſhews thy ſelf ignorant of, there<g ref="char:EOLhyphen"/>fore thou art unlearned, and muſt be ſilent, as thou art to it: and let the Prophets, Chriſt, and the Apoſtles alone; for they all ſpake by one ſpirit, according to their growth, and the ful<g ref="char:EOLhyphen"/>filling of the Scriptures.</p>
+            <p>Object. <hi>But thou ſpeaks of an Interpretation that agrees to the ſpirit of the Scriptures.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> That Interpretation we deny; for you would have another Interpretator beſides the Spirit: and here thou ſhews thy ſelf to be in thy fancy, adding to whom the plagues of God are due, who adds another interpretation beſides the Spirit, and thou art in the nature of all them who thou reckons up which art out of the truth.</p>
+            <pb n="12" facs="tcp:118307:7"/>
+            <p> Object. <hi>Thou accuſeſt the quakers for grand Impoſtures, which they beguile people, they bring the letter which ſerves for their purpoſe.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> This ſhall ſtand for thy own condition, for thy impo<g ref="char:EOLhyphen"/>ſtures we abhor, and here thou art a lyar: I charge thee in the preſence of the Lord, as to ſay, we bring the letter which ſerves for our purpoſe to deceive the people; for every tittle of the Scripture is ours, and we own them, and do not deceive the people from the truth, but ſuch as you call Miniſters, which make a trade upon the Scriptures, and lead people into darkneſs, with your ſences upon the Scriptures, we deny: And ſo here thou a t found the adder, giving ſences and meanings according to the Spirit, as thou ſayeſt: and here thou makeſt it manifeſt, that it is thy ſelf that interprets, and not the Spirit that gave forth the Scriptures, which Spirit opens them again.</p>
+            <p>Object. <hi>And thou ſayeſt the ſufficiency of the Scriptures do build men up to ſalvation.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> Here thou ſet'ſt the Scripture before God and Chriſt, who is the Saviour, and perverts it, had'ſt thou ſaid they were able to make one wiſe to ſalvation through Faith in Chriſt Je<g ref="char:EOLhyphen"/>ſus, but there thou art diminiſhing, as to ſay the Scripture is ſufficient to build men up to ſalvation.</p>
+            <p>Que. 4. <hi>Whether you have an infallible judgment to judg of things eternal, yea or no?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Thou ſayeſt every man is darkneſs.</p>
+            <p>
+               <hi>Rep.</hi> And there thou art in thy firſt eſtate, who hath utter<g ref="char:EOLhyphen"/>ed forth many words to this Query out of thy confuſed mind.</p>
+            <p>Obj. <hi>Thou ſayeſt, them that the Apoſtles ſaid knew all things, which was but an hyperbolical expreſſion, and did im<g ref="char:EOLhyphen"/>port only much knowledg to be in them.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> Here I charge thee in the preſence of the Lord to be a perverter of the Apoſtles words, and one that addeth: <hi>John</hi> ſpeaks no ſuch word as hyperbolical, therefore let thou <hi>John</hi>'s words alone: Here all may ſee whether thou ſpeakeſt by the ſpi<g ref="char:EOLhyphen"/>rit or no.</p>
+            <p>Object. <hi>And thou ſayeſt, they that had received the <g ref="char:V">Ʋ</g>ncti<g ref="char:EOLhyphen"/>on, had not an infallible judgment.</hi>
+            </p>
+            <pb n="13" facs="tcp:118307:7"/>
+            <p> 
+               <hi>Rep.</hi> And here let all people take notice what thou ſpeak'ſt from, and yet thou ſayeſt, though they had the Spirit, which if they have the Spirit to judg withal, the judgment is infallible, and thou belyes them, and wrongs them, for they knew the truth, and that there was no lye of it, and then they had an infallible judgment; and the Apoſtles ſaid, they knew all things.</p>
+            <p>Obj. <hi>And thou ſayeſt, it did but import much knowledg.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> And here thou would'ſt make the Apoſtle a lyar, and the Scripture falſe.</p>
+            <p>Obj. <hi>And thou ſayeſt, neither you, nor any other hath an infallible judgment in all things.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> Here thou haſt cleared thy ſelf from the ſpiritual man, who judgeth all things, and hath an infallible judgment.</p>
+            <p>Obj. And again, <hi>Thou ſayest in all things, and at all times, but you are ſubject to errour in many things, you do not appre<g ref="char:EOLhyphen"/>hend to ſpeak right of God, of Chriſt, of the Spirit, of the Saints, and of your ſelves, and of the Myſtery of the Go<g ref="char:EOLhyphen"/>ſpel.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> And here again thou haſt cleared thy ſelf, who doth not apprehend and ſpeak aright of God, Chriſt, the Spirit, Saints, your ſelves, and of the myſtery of the Goſpel: Let all people take notice whether thou haſt not cleared thy ſelf from God, Chriſt, the Spirit, the Saints, and the Myſtery of the Go<g ref="char:EOLhyphen"/>ſpel.</p>
+            <p>Obj. <hi>And thou ſayeſt, you do not apprehend your ſelves.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> Let all people take notice, and ſee if you be a fit man to preach, who cannot apprehend to ſpeak right of God, of Chriſt, of the Spirit, of the Saints, and of the myſtery of the Goſpel, and thou haſt confeſſed it, and openly ſhewed thy ſelf to be a natural man that knows not the things of God, who cannot ſpeak aright of God, as thou ſayeſt, and that which is not right is wrong, and the Spirit of Errour, which thou ſayeſt ye are ſubject to.</p>
+            <p>Obj. <hi>Thou ſayeſt there may be an infallible judgment, which may be made from the Scripture without the Spirit.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> This is thy judgment, like unto the Jews, who had the Letter, but not the ſpirit, who judged Chriſt to be a de<g ref="char:EOLhyphen"/>vil, and ſo here are the fruits of thy manners and Doctrine, as
+<pb n="14" facs="tcp:118307:8"/>thou call'ſt them, and thy pretending truth much confuſed ſtuff, here is in this anſwer, as thou call'ſt it, and yet thou confeſſeſt an infallible judgment, which cannot be made without the Spi<g ref="char:EOLhyphen"/>tit, but that Spirit is without them.</p>
+            <p>Obj. <hi>And in ſome things thou ſayest you have an infallibili<g ref="char:EOLhyphen"/>ty, but this is the confuſion, that the Scripture is the founda<g ref="char:EOLhyphen"/>tion of an infallible judgment concerning things contained in them, and not the Spirit.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> Here thou would'ſt make people believe, that the Scri<g ref="char:EOLhyphen"/>pture was before the Spirit, and ſo ſhews thy ſelf to be natural and carnal, and ſhews thy ſelf ignorant of that Spirit that gave forth the Scriptures, which is the Judg of all Errour, and ſuch as ſhews forth the Spirit of Errour.</p>
+            <p>Que. 5. <hi>Whether you be above the Apoſtle, and able to judg his condition, becauſe you ſay he was not perfect, who ſaid, he ſpoke wiſdome among them that were perfect.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> And in thy anſwer thou ſayeſt, <hi>Paul</hi> denied perfecti<g ref="char:EOLhyphen"/>on, and thou denieſt perfection.</p>
+            <p>
+               <hi>Rep.</hi> Thou lyar, where did <hi>Paul</hi> ever deny perfection, and here you ſit as Judges, and when <hi>Paul</hi> ſpoke, <hi>Let us, as ma<g ref="char:EOLhyphen"/>ny as are perfect be true minded,</hi> he did not ſpeak only of him<g ref="char:EOLhyphen"/>ſelf, neither did he ſpeak of comparative perfection, which thou ſayeſt ſome attained unto: And here I charge thee again to add to the Scriptures, and perverts the Apoſtles words, for he ſpoke plainly, <hi>Stand perfect and compleat in all the will of God, and be perfect;</hi> but he doth not ſpeak of a comparative perfection.</p>
+            <p>Obj. <hi>And thou brings the words of the Apoſtle</hi> James, <hi>who ſaith,</hi> He that can bridle his tongue is a perfect man.</p>
+            <p>
+               <hi>Rep.</hi> He ſaith ſo, but thou ſaith not abſolutely perfect: Here again thou perverts the Apoſtles words, and would make him a lyar, and that Scripture falſe, but thou art the lyar, and art for the Lake that burneth with fire and brimſtone.</p>
+            <p>Obj. <hi>And thou ſayeſt,</hi> The heart may be unruly, though the tongue be reſtrained, <hi>and ſuch thou ſayest are comparatively perfect.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> Where there is no ſuch thing mentioned in the Scri<g ref="char:EOLhyphen"/>pture as comparative perfection, but it is thy coyned words ad<g ref="char:EOLhyphen"/>ded to the Scriptures, and the plagues will be added to thee.</p>
+            <pb n="15" facs="tcp:118307:8"/>
+            <p> Obj. <hi>And thou ſayeſt among ſuch perfect ones</hi> Paul <hi>ſpeaks wiſdom, but not amongst abſolute perfectiſts.</hi>
+            </p>
+            <p>
+               <hi>Rep. Paul</hi> ſaith he ſpoke wiſdom among them that were perfect, and thou ſayeſt not amongſt abſolute perfectiſts: Here I charge thee in the preſence of the Lord to be the lyar, but thou would'ſt make the Apoſtle a lyar.</p>
+            <p>Obj. <hi>And thou ſayeſt it is a ſenſeleſs fooliſh queſtion, be<g ref="char:EOLhyphen"/>cauſe we ask you whether you be above the Apoſtles condi<g ref="char:EOLhyphen"/>tion.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> Seeing you ſit as Judges of his condition, as you have made it appear, perverting his words, and would make him a lyar.</p>
+            <p>Que. 6. <hi>Whether you have the hidden wiſdom which God or<g ref="char:EOLhyphen"/>dained before the world was, which the Apoſtles ſpeak of, yea or no?</hi>
+            </p>
+            <p>Some things in reply to thy anſwer of this Query: Now thou ſayeſt, if Chriſt be this hidden wiſdome, the queſtion runs of Chriſt, whether you be or no, our anſwer runs to this.</p>
+            <p>
+               <hi>Anſ.</hi> And here you have ſhewed forth your ſelf, and cannot confeſs the hidden wiſdom as the Apoſtles did with that they had, and ſo have given no anſwer to the Query, but haſt given forth many words, and ſaith, we do imagine many things of Chriſt, and of God, and his fleſh.</p>
+            <p>
+               <hi>Rep.</hi> But that is thy own condition, who art in thy imagi<g ref="char:EOLhyphen"/>nations, for we deny thee and them both, who hath put theſe lyes upon us, for neither Chriſt, nor God, nor Scriptures are known by imaginations.</p>
+            <p>Object. <hi>And thou ſpeak'ſt of Chriſt within them, teaching them.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> That is witneſſed, and where he is, grace is, and ſtrength and holineſs, and the ſpiritual man need not any exter<g ref="char:EOLhyphen"/>nal thing to lead the ſpirit, and ſo all thy external Ordinances and external Teachings we utterly deny, but the Scriptures we own, and the Ordinances of Chriſt in their place, and here thou haſt ſhewed forth thy venom.</p>
+            <p>Object. <hi>And thou ſayeſt, Chriſt within them is ſufficient for all things, and to have no teachers but Chriſt; this we aſ<g ref="char:EOLhyphen"/>ſume not, nor dare, and we declare againſt it as a ſatanica
+<pb n="16" facs="tcp:118307:9"/>deluſion that theſe poor creatures are in, which confeſs Chriſt is ſufficient for all things.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> All who are in light may ſee what utter darkneſs thou lives in, who would have Chriſt ſufficient for all things, and all purpoſes; and the Scripture ſaith, he is all in all, and thou art in the eſtate of thy firſt parents, as thou calls it, and a ſervant to thy Maſter.</p>
+            <p>Que. 7. <hi>Whether you have heard the voice of the living Lord God of heaven and earth, or whether you do not take the Prophets words, Christs words, and the Apostles words, and ſay it, when ſaith the Lord, I never ſpoke to you.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Our anſwer is this, That ſuch a Voice as this, as comes immediately from God, we have not heard, and ſuch an inſpi<g ref="char:EOLhyphen"/>ration as this we have not received, nor do we wait for it.</p>
+            <p>
+               <hi>Rep.</hi> Here thou ſheweſt thy ſelf one that runs before thou art ſent, and one that uſeth thy tongue, and no Miniſter of God, and thy ſelf to be a Heathen not hearing his voice, who ſpeaks from heaven, whoſe voice ſhakes the earth, ſo thou knows no<g ref="char:EOLhyphen"/>thing of ſalvation but by hereſay; and here thou ſheweſt thy ſelf to be a falſe Prophet, that takes the Saints words, and ſay, he ſaith, when ſaith the Lord I never ſpoke to them, and doth confeſs that the Jews ſaid <hi>Moſes</hi> heard his voice, and a<g ref="char:EOLhyphen"/>mong the Jews thou art, who perſecutes the truth.</p>
+            <p>Object. And thou ſayeſt, <hi>Such an inſpiration which is im<g ref="char:EOLhyphen"/>mediately received from God, we have not received, neither do we wait for it.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> Here thou haſt cleared thy ſelf, that thou haſt not recei<g ref="char:EOLhyphen"/>ved the Spirit of God, but art in the ſpirit of errour, for the Scripture was given us by inſpiration, and by immediate inſpi<g ref="char:EOLhyphen"/>ration of the ſame Spirit are underſtood again, and from this thou haſt cleared thy ſelf, and from the life of all the holy men of God, and ſayeſt, thou doſt neither look nor wait to receive ſuch an immediate voice, nor ſuch an inſp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ration; and here thou ſheweſt thy ſelf to be a natural man, and one of the dumb Pro<g ref="char:EOLhyphen"/>phets, that hath not a word from the Lord, but an impoſture, thou accuſeſt them thou call Quakers withal, and art a decei<g ref="char:EOLhyphen"/>ver, but thoſe words they deny, and Wonders, and Miracles, and Signs are amongſt them, but your adultereſs generation could never believe.</p>
+            <pb n="17" facs="tcp:118307:9"/>
+            <p> Object. <hi>And thou ſayeſt the</hi> Querie <hi>ſtrikes at all preachings, but what immediately proceeds from the ſuggestion of the Spi<g ref="char:EOLhyphen"/>rit, and this thou ſayeſt is the ven<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m and poyſon of the</hi> Query.</p>
+            <p>Rep. And here again thou cleareſt thy ſelf to be no Miniſter of the Spirit, but art in the ſuggeſtions of Satan, and counts that venom and poyſon the immediate preaching of the Spirit, to thee it is poyſon, but it muſt daſh thee to pieces, and thou through many words would blind the people, who utters them forth without knowledg, and ſo a fool is known.</p>
+            <p>Object. <hi>And thou ſayest, the word of old, which was ſpo<g ref="char:EOLhyphen"/>ken by the Prophets, and this, is a more ſure word then any immediate word.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> There thou haſt cleared thy ſelf from the immediate Word, who art built upon a rotten foundation, which is not immediate, and would clear the Prophets from this immediate word to make them like thy ſelf, who ſayes, and calls this a more ſure word of Prophecy then any immediate word. Here thou goeſt about to make the word and Prophecy not an imme<g ref="char:EOLhyphen"/>diate word, and ſhews thy ſelf to be a dreamer.</p>
+            <p>Object. <hi>And thou ſayeſt, conſequently God did not intend immediate teaching, not to give out an immediate voice in af<g ref="char:EOLhyphen"/>ter ages, which ſhould airect and guide men in the wayes of ſalvation.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> And here again I charge thee in the preſence of the Lord to be a lyar, and a blaſphemer, who would limit God, and would be his Counſellour, and yet ſayes, thou never waits to hear his voice, and not come ſo far<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, as to be a Miniſter of the letter, who would have it kept in ſtore, and ſaith, it is a pre<g ref="char:EOLhyphen"/>cious treaſure; God ſaith, he will power out his Spirit upon al fl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſh in the latter dayes, his ſons and his daughters ſhall pro<g ref="char:EOLhyphen"/>phecy; and thou denieſt immediate teaching, and ſo denies the ſpirit of the Lord which guides in the way of ſalvation, which thou denies, and thou haſt denied, that thou laſt heard any Voice from God, neither doſt thou wait for it: And here thou denies thy ſelf to be taught of God, for all the children of the Lord are taught of the Lord, and they that are taught of him hears his voice, which thou denies, and ſhews thy ſelf to be
+<pb n="18" facs="tcp:118307:10"/>a ſtranger from God and Chriſt.</p>
+            <p>Object. <hi>And thou ſayeſt there must not be a waiting for a new immediate word.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> Here thou ſheweſt thy ſelf that thou knoweſt not the immediate word, and this immediate word thou haſt cleared thy ſelf from, which gave forth the letter, and would keep others from waiting for the receiving of it, and ſpeak of a word ſpo<g ref="char:EOLhyphen"/>ken to you, though not immediately, and if not immediately, it is carnal.</p>
+            <p>Object. <hi>And thou bringest</hi> Paul, <hi>who ſaid. Well ſpoke the Holy Ghost by Iſaiah. He did not ſay, well ſpoke the Holy Ghoſt to me, but to</hi> Iſaiah.</p>
+            <p>
+               <hi>Rep.</hi> Here thou would'ſt make people believe, that the Apo<g ref="char:EOLhyphen"/>ſtle had not the Holy Ghoſt which opened to him all thoſe words which <hi>Iſaiah</hi> ſpoke, for without the Holy Ghoſt he could not underſtand his words, nor never ſhalt thou.</p>
+            <p>Object. <hi>Thou ſayest it was Gods word to</hi> Iſaiah, <hi>which he made uſe of against the people, to whom he ſpake, though not Gods word to him immediately.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> And here thou ſheweſt, that thou neither knows Gods Word, nor his immediate teaching, who ſits as a Judg upon <hi>Iſaiah's</hi> condition, Silence fleſh, for thou art for judgment and deſtruction; and would make people believe, that <hi>Iſaiah</hi> was one of them that uſed his tongue.</p>
+            <p>Query 8. <hi>Whether a man ſhall overcome the body of ſin while he is upon the earth, yea or no?</hi>
+            </p>
+            <p>
+               <hi>Anſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> And in thy anſwer thou ſaid'ſt no.</p>
+            <p>
+               <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> The Apoſtle ſaid yea, they were not in the fleſh, but <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, and he thanked God they were made free from ſin, <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> put off the body of ſin, and become ſervants of righ<g ref="char:EOLhyphen"/>teouſneſs. And here thou ſheweſt thy ſelf to have a lying Spi<g ref="char:EOLhyphen"/>rit <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to the Scripture, which thou boaſteſt to be thy rule, and ſo thou brings the Saints weakneſſes, as they paſſed the warture to maintain thy own Kingdom of Sin; and when <hi>John</hi> and the Apoſtle <hi>Paul</hi> ſpeaks plainly of overcoming the world and Body of Sin, thou ſpeakeſt of a ſenſe of overcom<g ref="char:EOLhyphen"/>ing, as though they did not ſpeak truth, and ſo art giving an interpretation to their words, who art in the lying Generation;
+<pb n="19" facs="tcp:118307:10"/>and for the warfare which the Apoſtles ſpeaks of, the Saints witneſſed, and do witneſs it, and witneſſes a Victory over the Body of Sin, and are not alwayes in the warfare, for whil'ſt ye are in the warfare there is no peace, but they that overcome witneſſes peace and joy in the Holy Ghoſt, <hi>For he that is born of God doth not commit ſin, neither can he ſin, becauſe his ſeed remains in him:</hi> And here the warfare is ended, who witneſs this, and the Victory over the Body of Sin, and are not ſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly women alwayes learning, and never able to come to the know<g ref="char:EOLhyphen"/>ledg of the truth; but in that Generation thou art leading ſilly women captive, alwayes learning, and never able to come to the knowledg of the truth, keeping them alwayes in their ſins, and pleading for thy own Kingdome, which is the Kingdome of the Devil, for he that commits ſin is of the Devil, which thou ſo plead'ſt for.</p>
+            <p>Query 9. <hi>Whether you do preach no other Doctrine but what the Apoſtles did, that which was from the beginning, which we have heard, which we have ſeen with our eyes, which w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> have looked upon, and our hands have handled of the Word o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Life, for this Life is made manifeſt, and we have ſeen it, an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> bear witneſs, and ſhew it unto you.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> And in your anſwer to this Query, you ſay, That yo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> aim at nothing but exalting Chriſt, and you ſhould have a your preaching tend thither; and you ſay, you do not preac<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that Chriſt which you have ſeen with your bodily eyes, for Chriſt is in heaven, and not in earth, not any other that lives upon earth hath heard of him, and ſeen him.</p>
+            <p>
+               <hi>Rep.</hi> O thou dark Sot, Does any ſee Chriſt with their car<g ref="char:EOLhyphen"/>nal eyes, and know him? Was it not ſaid to the Apoſtle, that fleſh and bloud had not revealed it unto him, w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en he ſaid, <hi>Thou art the Chriſt, the Son of the living God?</hi> and from this Re<g ref="char:EOLhyphen"/>velation thou haſt cleared thy ſelf.</p>
+            <p>Ob. <hi>And thou ſayeſt, That Chriſt is in heaven, and not in earth.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> And here thou haſt cleared thy ſelf to be a Reprobate.</p>
+            <p>Ob. <hi>And thou ſayest, How ſhall they preach, except they be ſent?</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> And before thou denied'ſt as hearing any voice from
+<pb n="20" facs="tcp:118307:11"/>heaven, and denied immediate inſpiration, and how doſt thou exalt Chriſt, and knows him not? and the framing of a Chriſt ſhall ſtand for thy own condition, who art without; and <hi>Saul</hi> ſeeing <hi>Samuel,</hi> indeed ſaw the Devil, and talked with him, and had fellowſhip with him, but ſaw not <hi>Samuel.</hi>
+            </p>
+            <p>Ob. <hi>And thou ſayeſt, You do not give your aſſurance, but you conceive.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> Let all people ſee if thy preaching be not phancy, and no aſſurance, and to be ſcattered among the proud, who live in their imaginations and conceivings, and haſt cleared thy ſelf from the eternal Spirit, and canſt give no teſtimony of that which was from the beginning.</p>
+            <p>Ob. <hi>And thou ſayeſt, Thou giveſt not thine own aſſurance, but you conceive and ſpeak of the Apoſtles aſſurance.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> Let the Apoſtles aſſurance alone, for that we own, who wi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>neſs aſſurance, but deny thy conceivings.</p>
+            <p>Query 10. <hi>Whether you have this word which was from the beginning, and this Life manifest unto you, which was to the Apoſtl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, and if it be, why do you take a text from the Letter, and preach from it, and ſhew the people that letter.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> And thy anſwer is, Th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Word, and this Life, which is Chriſt made manifeſt in the fleſh; and thou ſayeſt, The de<g ref="char:EOLhyphen"/>ſign in this queſtion is to draw all perſons from all that is written, to depend upon an unwritten word, ſomething within them, the word from the beginning, and is the Life, and is manifeſt, as they gave it out.</p>
+            <p>
+               <hi>Rep.</hi> This word is owned among them you call Quakers, which was from the beginning, which all the Apoſtles ſpoke from, which is immediate, which thou haſt cleared thy ſelf from, and ſhews, that thou haſt nothing but the letter which is death, and feeds people with that.</p>
+            <p>Object. <hi>And thou ſayeſt, this ſort of men which hath the immediate word, doth the divel ſhew his ſpite, ſpleen, and ma<g ref="char:EOLhyphen"/>lice againſt the holy Scriptures.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> Here I charge thee in the preſence of the Lord to be a lyar, and in that ſtate thy ſelf, for where the immediate word is, which was in the beginning, which gave forth the Scrip<g ref="char:EOLhyphen"/>tures, it owns every tittle of it again, and many Scriptures
+<pb n="21" facs="tcp:118307:11"/>haſt thou wreſted for the taking of a Text, which Chriſt and the Apoſtles ſpoke of the fulfilling of the Scriptures, and ſhew<g ref="char:EOLhyphen"/>ed the fulfilling of the Scriptures, and to bring men to Chriſt out of the letter into that thing the letter ſpeaks of, that they might not live in the oldneſs of the letter, but in the newneſs of the ſpirit.</p>
+            <p>Ob. <hi>And thou ſayeſt, you take a text, becauſe the whole w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll of God, and mind of Chriſt, is left you in letters, which is now left us in words and letters in the Evangeliſts and Apo<g ref="char:EOLhyphen"/>ſtles writings, and ſo you take a text from the letter, and if the Gospel be hid, it is hid from you that are loſt, whom the God of the world hath blind<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d the mind of them that believe not.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> Here thou ſpeak'ſt thou know'ſt not what, for if all ſhould have been written which Chriſt ſpoke forth, the world could not contain the books that might have been written of him, and many could ſpeak of his word, but had not his mind, therefore they perſecuted him as thou doſt, and there thou ſheweſt thy ſelf to be him whom the God of the world hath blinded the mind who hath the letter of the Goſpel, but not that which it ſpeaks of the Goſpel, the glad tydings, the Son that was given, but that is without thee, and the letters of it thou haſt, but not the Goſpel.</p>
+            <p>Object. <hi>And thou ſayeſt, Saints do not as yet ſee Christ, and yet</hi> Abraham <hi>ſaw his daies.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> What confuſed ſtuff is this that comes out of thy bo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tle? theſe are thy Saints which do not ſee Chriſt, and how doſt thou exalt him? The Saints witneſs Chriſt in them, the myſte<g ref="char:EOLhyphen"/>ry, the hope of glory, but thou haſt cleared thy ſelf from this Chriſt, from this myſtery, from this hope of glory, to be a Reprobate and an Anti-chriſt, and from the faith of <hi>Abra<g ref="char:EOLhyphen"/>ham.</hi>
+            </p>
+            <p>Query 11. <hi>And ſhew me where the Prophets did take a text and preach from it, but only Chriſt read a place, and ſaid it was fulfilled, who ſaid, he was anoynted to preach, and which of you can witneſs you are anoynted to preach by the living God, yea or no?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> And in thy anſwer to this Query thou ſpeak'ſt, whom God calls out to be to the body in place of eyes to guide and di<g ref="char:EOLhyphen"/>rect
+<pb n="22" facs="tcp:118307:12"/>them, and before you denyed as hearing any ſuch voyce as from God.</p>
+            <p>
+               <hi>Reply.</hi> Here all people may ſee thy folly, and thou doſt not ſay, that you are anointed to preach by the living God, or how canſt thou who haſt denyed his voyce, or immediate inſpirati<g ref="char:EOLhyphen"/>on.</p>
+            <p>Obj. <hi>And thou ſayeſt, the Prophets did take no text, but laid the foundation.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> And here thou haſt cleared thy ſelf from the Prophets, Chriſt the Foundation; and though Chriſt did read, who ful<g ref="char:EOLhyphen"/>filled the Prophets, who propheſied of him, and <hi>Moſes</hi> who wrote of him, for he was the ſubſtance and the end; and though they had Synagogues, and Temple, and Sabbath Day, to read <hi>Moſes,</hi> the Law, and the Prophets. When Chriſt was come, and ſacrificed up, and who believed, and received him, had re<g ref="char:EOLhyphen"/>ceived the end of the Law, the end of the Prophets, and the end of the Sabbath, and they went into the Synagogues, ſhew<g ref="char:EOLhyphen"/>ing the people the ſubſtance of what they had read, and to bring them of the Temple the Sabbath days, and obſerving of times, which in all thy words thou cleareſt thy ſelf from that life and doctrine, but would keep people in obſerving of days and times, and places; and ſo ſhews thy ſelf in the dark generation, li<g ref="char:EOLhyphen"/>ving long in a text, and not witneſſing it fulfilled, as Chriſt did.</p>
+            <p>Obj. <hi>And thou ſayeſt, Chriſt might have diſcourſed of a ſubject many months, who came to fulfil what was written of him.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> Here you would make Chriſt like thy ſelf, who art unlearned, diſcourſing with thy carnal mind upon that which was given forth by an Eternal Spirit, who art for death and deſtruction.</p>
+            <p>Quer. 12. <hi>Tell me, why you ſing Davids Conditions and Ex<g ref="char:EOLhyphen"/>periences in Moeter, and when you read them, hats you put on, and when you ſing them, hats you put off.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> And thy anſwer is, <hi>Davids Conditions and Experien<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> are many times your own.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> And before thou denyes as hearing Gods voyce, and how ca<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt thou know <hi>Davids</hi> conditions, who heard the voyce
+<pb n="23" facs="tcp:118307:12"/>of God in the holy Temple, and thou denyes hearing of Gods voyce; but abundance of words thou haſt heaped up together, and wouldeſt make the Saints ſinging like thine, who ſung with the ſpirit, and with underſtanding.</p>
+            <p>Obj. <hi>And again thou ſayeſt, God would have you in your meetings to rejoyce.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> Thou lyar, How knoweſt thou the mind of God, and never heardſt his voyce, who hiſt openly ſhewed thy ſelf to be a Heathen, who knows not God, who knows nothing of the rejoycing, and ſinging in ſpirit; and what haſt thou to do to talk of the Church of God, which is the pillar and ground of truth, who denyes the voyce of God, and immediate inſpirati<g ref="char:EOLhyphen"/>on which is both in the Church of God.</p>
+            <p>Obj. <hi>And as concerning putting on hats, when you read, and putting them off when you ſing: Then ſayeſt you ſhall not much conteſt.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> Then you muſt confeſs it to be a tradition, and that you worſhip the works of your own hands, and yet thou go<g ref="char:EOLhyphen"/>eſt about to juſtifie it who art mudled in thy confuſed genera<g ref="char:EOLhyphen"/>tion, who would have the hat put off, when thou prayeſt with a part of the ſcripture, and when thou readeſt part of the ſcrip<g ref="char:EOLhyphen"/>ture to put thy hat on. See if this be not thy own traditi<g ref="char:EOLhyphen"/>on.</p>
+            <p>Obj. <hi>And as for ſinging Davids Pſalms in meeter, thou ſay<g ref="char:EOLhyphen"/>eſt, the Hebrews had their Poetry, and it is ſutable for every Nation to have their own Poet, and particular Poetry to them<g ref="char:EOLhyphen"/>ſelves to praiſe God, and Meeter is congruous, as thou ſayeſt, to our Engliſh Poetry.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> And this is all thy conjured ſtuff, and likeneſſes, who give<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> every Nation liberty, who art in the Nations, and ſtands up for thy own, who haſt cleared thy ſelf from the ſpirit which the Saints ſung withall in underſtanding, who comes to be re<g ref="char:EOLhyphen"/>deemed from Nations which yet thou art in, and languages in the cuſtomes of the Nations, which who ſing prayſes to God, are redeemed from, and ſo thou maintains thy own cuſtoms and traditions: but the Church of God ſlander not; for they deny your Cuſtoms, and your Ordinances, which God never com<g ref="char:EOLhyphen"/>manded, and there is no difference between your poſtures, and
+<pb n="24" facs="tcp:118307:13"/>the worlds, nor your ſinging, and the worlds; but there is a dif<g ref="char:EOLhyphen"/>ference between your ſinging and the Saints, which knew God, and heard his voyce, and ſung with the ſpirit, but thou haſt de<g ref="char:EOLhyphen"/>nyed the immediate inſpiration of the ſpirit, and ſo thou cauſt not ſing with that ſpirit the Saints ſung withall.</p>
+            <p>Quer. 13. <hi>Whether you do know the voyce of Chriſt, from the voyce of a ſtranger: My ſheep know my voyce, ſaith Chriſt, ſeeing you are ſo forward to judge, and ſit as Judges of the Saints conditions.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> And thy anſwer is, <hi>That which Chriſt preached, and the Prophets, and Apoſtles, which is left upon record, which, you have in the Scriptures, that is, that voyce of Chriſt, and with it you are able to diſtinguiſh from the voyce of a ſtran<g ref="char:EOLhyphen"/>ger.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> Here you ſhew your ſelves that you have the form, but not the power; for many come to ſpeak the Prophets words, and uſe their tongues, and ſay, he ſaith, when ſaith the Lord, <hi>I never ſpoke to them:</hi> and this is your condition, who hath the letter, as the <hi>Jews</hi> had, which knew not the voyce of Chriſt, nor with the letter can you know his voyce, and there you are.</p>
+            <p>Obj. <hi>And thou ſayeſt, this immediate voyce you have not heard, neither do you know it within your ſelves experimental<g ref="char:EOLhyphen"/>ly, neither do you wait for it; for you know it is not the voyce of Chriſt.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> Here you have cleared your ſelves from the voyce of Chriſt, and to be ſtrangers, which never heard the voyce of Chriſt, which is immediate; for you deny hearing this immedi<g ref="char:EOLhyphen"/>ate voyce within, and ſo denyes Chriſt to be within, and ſhew your ſelves to be reprobates. And you ſhew your ſelves to be in the ſtate of the <hi>Jews,</hi> which knew not the voyce of Chriſt which was immediate, but judged it to be of the Devil, as you do.</p>
+            <p>Obj. <hi>And this immediate voyce you bleſs your ſelves from, and ſay, It is the voyce of the Devil, and ſay you have never heard the Devils voyce, nor ſeen his ſhape, and yet you plead for ſin as long as you are here.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> And is not ſin the ſhape of the Devil? and you that plead for ſin, that is, the voyce of the Devil in you, and not the
+<pb n="25" facs="tcp:118307:13"/>voyce of Chriſt; for the voyce of Chriſt teſtifies againſt all ſin, and here you ſhew that you never heard the voyce of Chriſt, which is immediate, but only hath the letter, as the devil hath to bring, and the form, and calls that the Voice of Chriſt, and here you ſhew your ſelves to be natural men, not knowing any thing of the immediate Voice of Chriſt, but judgeth it of the devil.</p>
+            <p>Query 14. <hi>Whether that within you which judgeth, be eter<g ref="char:EOLhyphen"/>nal and infallible, yea or no?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> And thy anſwer is, That that Spirit which we profeſs to be the Spirit of Chriſt, is that Spirit of deluſion, which doth all things in us.</p>
+            <p>
+               <hi>Rep.</hi> O thou deceiver, who knows not the letter, doth not the Scriptures ſay they, were led by the Spirit, and the fruits of the Spirit, and the Comforter which was to come ſhould lead them into all truth, and they denied themſelves with the Spirit for doing any thing; and here thou haſt cleared thy ſelf from the Spirit of Chriſt, and art in thy own Spirit of Er<g ref="char:EOLhyphen"/>rour.</p>
+            <p>Object. <hi>Thou ſayeſt, though the Spirit of Christ, which i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> eternal and infallible dwell in the Saints, yet it muſt not judg of perſons and things after an infallible manner, that they ſhould neither ſay, nor do, nor judg any thing by any under<g ref="char:EOLhyphen"/>standing of their own, but this Spirit, this we do deny, for the Apostle ſpeaks of himſelf,</hi> When he would do good, evil is preſent.</p>
+            <p>
+               <hi>Rep.</hi> Here I charge thee in the preſence of the Lord to be plead<g ref="char:EOLhyphen"/>ing for the Devil and ſelf, and denies the Spirit of Chriſt, and ſhews thy ſelf to be in the ſtate of the Wolves which Chriſt ſpeaks of, which ſhould come in ſheeps cloathing, who hath ſhewed forth thy fruit to be of the corrupt tree, who hath cleared thy ſelf from the ſpiritual man which judgeth all things.</p>
+            <p>Object. <hi>And thou ſpeakeſt of Antichriſts denying the Father and the Son, and falſe Teachers, bringing in damnable here<g ref="char:EOLhyphen"/>ſies, denying the Lord that bought them.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> Theſe words ſhall ſtand for thy ſelf, which thou accu<g ref="char:EOLhyphen"/>ſeſt others withal, for thou haſt denied, as hearing any imme<g ref="char:EOLhyphen"/>diate Voice from God, from heaven, or any immediate inſpi<g ref="char:EOLhyphen"/>ration
+<pb n="26" facs="tcp:118307:14"/>of the Spirit; and here thou haſt denied both the Father and the Son, for his voice is immediate, and he that hath the Son hath the Father alſo, and he that hath not the Son of God, hath not life <hi>(He that hath an ear to hear, let him hear)</hi> and in thy anſwer to this Query thou ſheweſt thy ſelf to be carnal, who hath nothing but the letter to judg withal, and haſt deni<g ref="char:EOLhyphen"/>ed the eternal ſpirit which judgeth all things.</p>
+            <p>Query 15. <hi>What are the Ordinances which are ordained of God, that thoſe which you call</hi> Quakers <hi>deny, or when did God command you to obſerve them, as to ſprinkle infants, to pray before and after Sermons as you call them, or to ſet times, and daies, and hours, which was in the Generation wh<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>h was e<g ref="char:EOLhyphen"/>nemies to Christ, who obſerved ſuch things.</hi>
+            </p>
+            <p>Query 16. <hi>Where theſe Ordinances of God be, which you ſpeak of, and where God commanded them, and to whom, which you ſay, them you call</hi> Quakers <hi>deny, mention them in parti<g ref="char:EOLhyphen"/>cular, and declare them openly in writing, and give our ac<g ref="char:EOLhyphen"/>cuſing.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> In thy anſwer to theſe two Queries, thou ſayeſt, we are againſt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll outward teaching.</p>
+            <p>
+               <hi>Reply.</hi> We are againſt a publike prayer, which is in the ſtate of the Phar<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, which Chriſt forbids, but the praying with the Spirit we own, and we are againſt ſprinkling Infants, for there is no Scripture for it, but the Baptiſm of the Spirit we own, and we are againſt all your ſinging <hi>Davids</hi> quakings, tremblings, prayers praiſes, and propheſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s in M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eter, but the ſinging with the Spirit we own, and all your performing Religion in your ſet hours, daies, and times, we are againſt, for that which is pure performs Religion, and this is the pure Religion which keeps unſpotted from the world, therefore we do declare againſt your Traditions, not to be Ordinances of Chriſt, but the Ordinances of Chriſt we own.</p>
+            <p>Object. <hi>And ſomething in anſw<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r to your own practiſe, con<g ref="char:EOLhyphen"/>cerning ſprinkling of Infants, is this: First for the act of ſprinkling, thou ſayeſt, ſomething may be held forth, though you uſe it not.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> And here thou art confuſed, you would go to hold up ſomething for your own practiſe, and yet thou ſayeſt, you do not uſe it.</p>
+            <pb n="27" facs="tcp:118307:14"/>
+            <p> Object. <hi>And thou bringest the bloud of Chriſt which is call<g ref="char:EOLhyphen"/>ed the bloud of ſprinkling, and thou ſayeſt, ſeeing water in Baptiſm be ſprinkled, and the ſubject types of Chriſts bloud.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> Here thou haſt made this tipe, Chriſt made it not, nei<g ref="char:EOLhyphen"/>ther is there any ſuch types made in the Scripture, neither any ſuch ſeal as ſprinkling infants,</p>
+            <p>Object. <hi>And thou ſayeſt, as for ſprinkling Infants, ſome<g ref="char:EOLhyphen"/>thing may be held forth for it, the bloud of Christ called the bloud of sprinkling.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> Here thou would'ſt ſet the ſprinkling of Infants above the Bloud of Chriſt, and make the bloud of Chriſt of none ef<g ref="char:EOLhyphen"/>fect, and make the bloud of Chriſt a figure of ſprinkling In<g ref="char:EOLhyphen"/>fants, but the bloud of Chriſt we own, and deny thee and thy holdings forth, who would make the ſubſtance a figure or a type ſprinkling Infants, and many Scriptures you bring, but not a word to juſtifie ſprinkling Infants, and fain you would bring ſome Scriptures to cover thee, but there is not one will witneſs thee in the Scriptures for ſprinkling Infants.</p>
+            <p>Object. <hi>And whereas thou bring'ſt</hi> Gen. 17. <hi>ver.</hi> 7. <hi>as con<g ref="char:EOLhyphen"/>cerning God eſtabliſhing his promiſe to his ſeed.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> Thou lyar, here I charge thee in the preſence of the Lord to pervert the Scriptures; doth that Scripture ſpeak of ſprinkling Infants, there is not ſuch a word in it, who makes people blind like thy ſelf, and would'ſt make them, but God hath raiſed up a light in the hearts of his people that doth diſcover thee.</p>
+            <p>Object. <hi>And thou bring'ſt</hi> Exod. 12.48. <hi>which there is not a word in it to juſtifie ſprinkling Infants, and thou bring'ſt</hi> Deut. 19.10.11. <hi>Jer.</hi> 31.34.</p>
+            <p>
+               <hi>Rep.</hi> I charge thee in the preſence of the Lord to be a lyar, for in all theſe Scriptures there is not a word that ſpeaks of ſprinkling Infants, but thou lyar and Sorcerer goes about to bewitch people with thy Inchantments, but thy Whoredoms are di<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>covered, and <hi>Acts</hi> 22.16. thou perverteſt, there is not a word in it of ſprink<g ref="char:EOLhyphen"/>ling Infants, and <hi>Acts</hi> 2.38. which thou would'ſt pervert: And here again I charge thee to be a lyar, for thoſe Scriptures do not ſpeak of ſprinkling Infants, and to the ſtate of <hi>Simon Magns</hi> thou art not yet come, to witneſs that Baptiſm, as he did, but art in thy Sorcery, and ſo as thou made a type, thou
+<pb n="28" facs="tcp:118307:15"/>art now making Seals and Covenants, and thy ſprinkling In<g ref="char:EOLhyphen"/>fants is a Seal of thy Covenants, which there is not a word in Scripture for. Again, <hi>Gen.</hi> 17.7. thou perverts the Scriptures to maintain ſprinkling Infants, which there is not a word in Scripture to juſtifie it; and <hi>Rom.</hi> 4.11. thou bring'ſt to juſtifie ſprinkling Infants, which there is not one word for it; and <hi>Heb.</hi> 10.16. thou bring'ſt to juſtifie ſprinkling Infants, which there is not one word for it; and <hi>Jer.</hi> 33.33. thou bring'ſt to juſtifie it, where there is not ſo many verſes in it, not 33. <hi>Col.</hi> 2.11. thou bring'ſt alſo to juſtifie ſprinkling Infants, which ſpeaks not one word for it; and <hi>Exod.</hi> 12.48. over again, once would have ſerved thee to prove thy ſelf a lyar; and <hi>Deut.</hi> 9.10.11. thou bring'ſt over again to prove thy ſelf a lyar withal, for there is not one word to juſtifie it; and thou bring'ſt <hi>Mat.</hi> 7.4. for the application of Water; and here I charge thee in the preſence of the Lord to be a lyar, and a wreſter, and a perver<g ref="char:EOLhyphen"/>ter of the Scriptures, for not one word in all theſe Scriptures doth ſpeak of ſprinkling infants, who would have a cl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ak, but canſt get none, and calls theſe the Ordinances of Chriſt, which are none, for the Ordinances of Chriſt we own, and Baptiſm we own, but thy Traditions we deny.</p>
+            <p>Object. <hi>And in thy anſwer concerning praying afore and af<g ref="char:EOLhyphen"/>ter Sermon.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> Thou bring'ſt the Saints conditions, the Apoſtles pray<g ref="char:EOLhyphen"/>ing, and the Saints to juſtifie thy own, who a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t in the ſtate of the Phariſees, and ſo puts no difference between the holy and pro<g ref="char:EOLhyphen"/>phane, betwixt the precious and the vile, and ſo ſhews thy ſelf to be a falſe Prophet among the falſe Prophets, for as thou confeſſes, thou never heard the Voice of God, and denies im<g ref="char:EOLhyphen"/>mediate inſpiration: And what haſt thou to do to pray or talk of the Church of Chriſt, the Apoſtles conditions, who haſt ſhewed thy ſelf to be an hypocrite, for God hears not hypocrites, and we do believe and know, that you never heard his Voice, and here thou ſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>weſt thy prayers are abomination to him; therfore I charge thee in the preſence of the Lord to let the Saints conditi<g ref="char:EOLhyphen"/>ons and prayers alone, for God heareth the righteous, but ac<g ref="char:EOLhyphen"/>cepts not the prayers of the wicked, who art not come ſo far as <hi>Balaam,</hi> for he heard the Voice of God; therefore becauſe
+<pb n="29" facs="tcp:118307:15"/>the Saints prayed, which you would bring their conditions for thy praying afore and after Sermon, and there is no Scripture will cloke you.</p>
+            <p>Object. <hi>And whereas thou ſayeſt women are not ſuffered to teach.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> And did not Chriſt ſend a woman to teach, and did he not ſay his Daughters ſhall Prophecy, thou art the woman that art forb<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dden to teach, who confeſſes you never heard Gods Voice, nor immediate inſpiration, therefore ſilence fleſh be<g ref="char:EOLhyphen"/>fore the Lord, but the Apoſtles and Saints praying we own.</p>
+            <p>Object. <hi>And whereas thou ſayeſt we are againſt that which the Saints uſed.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> Here I charge thee to be a lyar, for the Saints practiſes we own, but thy performances we deny.</p>
+            <p>Object. <hi>And thou ſayest, we might be convinced that you are not in the condition of the Jews hours and prayers.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> We find you in the ſame nature, though under another colour, and enemies to Chriſt.</p>
+            <p>Object. <hi>And thou brings</hi> Acts 3.</p>
+            <p>
+               <hi>Rep.</hi> That will fit and maintain thee in the Jews eſtate, all people take notice, the Apoſtles did not go up to uphold the Jews hours and prayers, but to bring them off thoſe things; and here thou haſt uttered forth thy folly.</p>
+            <p>Object. And thou ſayeſt, <hi>They ſtrike at godlineſs.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> Here I charge thee in the preſence of God to be a lyar.</p>
+            <p>Object. And whereas thou ſayeſt, <hi>If they can but deſtroy all forms, the power will fall with it.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> And here thou haſt uttered forth thy folly indeed, and blaſphemy, as though the form was before the power, and here thou haſt ſhewed thou haſt no power, but the form, as the A<g ref="char:EOLhyphen"/>poſtles ſpeaks of, ſo thou plead'ſt for daies, and hours, and moneths, which the Apoſtles ſpeaks againſt: And here thou haſt cleared thy ſelf from the Doctrine of the Apoſtles, and the Lords day we own, f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r all is the Lords, and the Saints meeting we own, but thine we do deny, who denies immediate inſpi<g ref="char:EOLhyphen"/>ration: And what haſt thou to do to talk of the Apoſtles meet<g ref="char:EOLhyphen"/>ing the firſt day of the week, and worſhip of God, who de<g ref="char:EOLhyphen"/>nies
+<pb n="30" facs="tcp:118307:16"/>immediate inſpiration, and hearing Gods voice, and de<g ref="char:EOLhyphen"/>nies immediate teaching, for God is a Spirit, and they that worſhip him, muſt worſhip him in ſpirit and truth, and that thou canſt not, who denies immediate teaching, thou haſt got a likeneſs of a Church, and ſo imitates the Apoſtles meetings, the firſt day of the week, and ſo haſt got the form, and not the power; and becauſe the Saints meet on the firſt day, from their words thou gathers likeneſs, which is forbidden, and what Scriptures haſt thou, that it is named the Lords day, when the Supper is nominated the Supper of the Lord we own, and the day of the Lord, but thou knoweſt nothing of the Supper of the Lord, nor the day.</p>
+            <p>Obj. <hi>And in thy anſwer, thou would'ſt make people believe we deny prayer.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> And in that thou art a lyar, and what haſt thou to do to talk of <hi>Abraham,</hi> and holy men of God, who denies hear<g ref="char:EOLhyphen"/>ing the Voice of God, and denies immediate Inſpiration, which the holy men of God witneſſed.</p>
+            <p>Object. <hi>And thou talk'ſt of</hi> Jacob <hi>purging away the Idols, and reforming his family.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> O man! look at home, and pu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ge away the Idols from thy ſelf, for <hi>David</hi> and <hi>Jacob</hi> we own; and do witneſs, and the Saints will not deny prayers but ſuch as thine, who prayeſt and never heard the Voice of God, nor immediate inſpiration, as thou haſt confeſt it, and doſt not look for it, and what good will all thy prayers do thee evening and morning? we witneſs the Apoſtles words, pray alwayes, and praiſe with the ſpirit and underſtanding: Here thou haſt ſhewed thy ſelf, as the Prieſts of <hi>Baal,</hi> who cut themſelves, who faſts; and yet thou ſayeſt, let us ſeek Gods face in prayer, and denies hearing Gods Voice.</p>
+            <p>Query 17. <hi>Whether do you not ſeduce the people, to draw them from the anoynting within them, when</hi> John <hi>ſaith, They need no man to teach them, but as the anoynting, and the promiſe was eternal life to him that did abide in the anoynt<g ref="char:EOLhyphen"/>ing.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> In thy anſwer to this Query, thou ſayeſt, the word that Chriſt preached was outward.</p>
+            <pb n="31" facs="tcp:118307:16"/>
+            <p> 
+               <hi>Rep.</hi> And here I charge thee in the preſence of the Lord to be a lyar; for he ſaid the word which he ſpoke, was ſpirit and life, and here thou draws people from the anointing to the Satanical deluſion, as thou calls it, and publiſhes lies.</p>
+            <p>Obj. <hi>And thou ſayeſt, John's Miniſtry was outward, and yet he came in the ſpirit, and power.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> What confuſed ſtuff is this? Here I charge thee again to be a lyar: <hi>John's</hi> teaching we witneſs, and Chriſts teaching we witneſs, and deny thine which is outward, and thou muſt needs be there; for thou denyes immediate inſpiration, who draws people from the inward to the outward; Here thou ſhews what thou art, if there had been no reply, and who puts no difference betwixt ears; for there are ears, and hears not, and there are ears which hear: and here thou ſhews thy ſelf to be a falſe prophet, who ſaith they are ſeduced, which are drawn from the external means which is earthly, let all people ſee, if you be not that wi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch that the Scripture ſpeaks of that bewith<g ref="char:EOLhyphen"/>ed the <hi>Galatians,</hi> in drawing them from the ſpirit within to obſerve circumciſion without them who draws to the exter<g ref="char:EOLhyphen"/>nal, who ſaith to wait for the receiving of the Spirit without any word, is deluſion; Here thou goes about to make the Word and the Spirit two.</p>
+            <p>Obj. <hi>And thou ſayeſt, One was newly redeemed out of the helliſh captivity.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> He is fit to be Ambaſſador of thy Church, a drun<g ref="char:EOLhyphen"/>kard, one of thy redeemed ones: There was a Warrant granted out againſt him; for drunkenneſs fence he was redeemed, as thou calls it.</p>
+            <p>Obj. <hi>And thou pleads much for mans teaching.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> Here thou ſhews plainly, that thou art a Miniſter made by the will of man, when <hi>Paul</hi> declares that he was not made a Miniſter by the will of man, but by the will of God: and here thou haſt cleared thy ſelf plainly from being a Miniſter made by the Will of God, or taught of him.</p>
+            <p>Obj. <hi>And thirdly, thou ſayeſt, The words, You need not any man teach you, but as the anointing teacheth you, is an by<g ref="char:EOLhyphen"/>perbolycal expreſſion.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> Here I charge thee again to pervert the Apoſtles words.</p>
+            <pb n="32" facs="tcp:118307:17"/>
+            <p> Obj. <hi>And thou ſayeſt, the Apoſtle tells them, they knew all things, and thou ſayeſt, is is an exceſſive ſpeech.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> And ſo thou goes about to make the Apoſtle a lyar, and are giving a meaning to his words, and wouldeſt give a comparative ſenc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, as thou calleſt it to it, and here thou ſhew<g ref="char:EOLhyphen"/>eſt openly, that thou doſt both add, wreſt, and pervert the A<g ref="char:EOLhyphen"/>poſtles words, who ſhews thy ſelf openly to be deceived, who art giving private interpretations to the Scripture, when the Scripture ſaith, there is none, and thou art perverting the Lords words, who ſaith, they ſhall all know him from the greateſt to the leaſt, they ſhall not need to teach every man his neighbour, and every man his brother; for they ſhall all know me from the greateſt to the leaſt of them, ſaith the Lord.</p>
+            <p>Obj. <hi>And thou ſayeſt, there is no ſuch meaſure of the ſpi<g ref="char:EOLhyphen"/>rit that can thruſt out outward teaching, while we are here.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> Here thou high blaſphemer, haſt denyed the everlaſt<g ref="char:EOLhyphen"/>ing Covenant of God, and while thou art there, thou ſhalt ne<g ref="char:EOLhyphen"/>ver know it.</p>
+            <p>Obj. <hi>And thou ſayeſt there is no ſuch Scripture as to abide in the anointing, that the Promiſe was Eternal life to him that did.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> And here thou doſt neither underſtand the anointing, nor the Scripture.</p>
+            <p>Quer. 18. <hi>Whether you do not bewitch the people, and draw them from the Spirit of God within you, to obſerve thoſe things which God never commanded, to tell the people of a Sacrament, and following your outward teaching, who ſtands praying in the Synagogues, and art called of men</hi> Maſter, <hi>which Chriſt did forbid,</hi> Mat. 23. And have the chiefeſt places in the Aſſem<g ref="char:EOLhyphen"/>blies. <hi>Whether theſe be not Antichriſts which act contrary to the Commands of Chriſt, yea or no.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> In thy Anſwer to this Query, thou ſayeſt, <hi>They ſtrike at Paſtors, and Elders.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> Here thou art a lyar; for the Query doth not mention Paſtors, or Elders.</p>
+            <p>Obj. <hi>And why doſt thou ſay, they ſpeak of the Synagogues in a deriſive way, and that the title of Maſters, and aſſuming
+<pb n="33" facs="tcp:118307:17"/>the chiefeſt places in the Aſſemblies, to be ambition.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> And this thou ſeeks to clear and juſtifie, which Chriſt cried wo againſt, and ſhews thy ſelf to be in the ſtate of the Scribes and Phariſees, as you may read, <hi>Mat.</hi> 23. <hi>Let the letter judge thee,</hi> if thou wilt own the Scripture. And doth not Chriſt cry <hi>wo</hi> againſt them that are called of men Maſter, and have the chiefeſt place in the Aſſemblies, ſtand praying in the Synagogues: H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hou ſhews thy ſelf to be an oppoſer of Chriſts words, who would juſtifie the worlds practiſe, which he cryed <hi>wo</hi> againſt, and ſo thou art a friend to the world, and an enemy to Chriſt.</p>
+            <p>Obj. <hi>And thou ſayeſt concerning the Sacrament, ther is no Ordinance a foot amongſt us which we call by that name, though there might be a defence for it.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> Here thou ſhews thy ſelf where thou was b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fore, in making a defence for that which is not, which <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>here is no Scrip<g ref="char:EOLhyphen"/>ture for: And what haſt thou to do to talk of O<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dinances, the Blood of Chriſt, and the Seals, and the Faith, and the Covenant of God, who denyes his voyce, and all who are taught of God, hear his voyce, and who are ſealed, are ſealed with the Spirit, but thou denyes the immediate inſpiration; and here thou clear<g ref="char:EOLhyphen"/>eſt thy ſelf from the Seals, from the Covenant, who ſaith men muſt be taught; for all who are brought into the Covenant, are taught of God, and hear his voyce, and need no man teach them, which you deny: Oh <hi>Lucifer</hi> like, who talks of theſe things, and cannot witneſs any of them but ar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> juſtifying Sy<g ref="char:EOLhyphen"/>nagogues, ſtanding p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aying there, which the Phariſees did: O thou Fox, thou are found out in all thy holes; we who witneſs the B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ood of Chriſt, the Covenant, the Seals, and the Supper of the Lord, deny all theſe things which you and the Phariſees held up which Chriſt cried <hi>wo</hi> againſt, and here thou art reckoned, and found amongſt thoſe deſpiſers of the grace of God, which never heard <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s voyce, as thou ſayeſt, amongſt the greateſt ſin<g ref="char:EOLhyphen"/>ners whichever blaſphemed Chriſt, though they pro<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d him in words, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o doſt thou, the world may juſtifi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e, but that Chriſt which the Scripture ſpeaks of, if you w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll own the Scriptures, do<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h condemn thee, who holds up, and pleads for theſe things, which he cries <hi>wo</hi> againſt.</p>
+            <pb n="34" facs="tcp:118307:18"/>
+            <p> Obj. Secondly, <hi>And for thy juſtification of outward teach<g ref="char:EOLhyphen"/>ing, thou ſayeſt, it is the power of God to ſalvation.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> Here I charge thee in the preſence of the Lord to be a lyar, and knows not what thou ſpeaks; is the power of God outward, and ſalvation, which is a Myſtery? and here thou haſt ſhut thy ſelf out from the Myſtery, and art in thy will, and a Miniſter made by the will of man, which is outward. <hi>Paul</hi> who was a Miniſter of the Spirit, which was not outward, made by the will of God: here thou haſt ſhut thy ſelf from the Miniſter of the Spirit, which miniſters to the Spirit in priſon, and art a Miniſter of the Letter made by the will of man, and holden up by man, and thou wreſts many Scriptures for to juſtifie the outward teaching, as <hi>Mat.</hi> 4.13, 14. <hi>Acts</hi> 26.16, 17, 18. and many other Scriptures, and ſo pu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s no difference betwixt the Mi<g ref="char:EOLhyphen"/>niſters of the world, which is outward, and Chriſts Miniſters, and the Apoſtles, which is immediate, and inward by the Spi<g ref="char:EOLhyphen"/>rit, and ſhews thou art not yet come to repentance, to diſcern the right hand from the left, He that hath ears to hear, let him hear what the Spirit ſaith, and that's not outward; And what haſt thou to do to talk of the Apoſtles preaching? Let the A<g ref="char:EOLhyphen"/>poſtles preaching alone; for they denyed the Phariſees teaching, I command thee in the preſence of the Lord.</p>
+            <p>Obj. <hi>And thou ſayſt, the Apoſtle ſaith, He rejoyced though ſome preach Christ from an envious ſpirit.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> Here thou adds to the Apoſtles words; all people read <hi>Pſal.</hi> 1.18. though the Apoſtle did ſay then, Some preach Chriſt of envy, ſome of ſtrife, ſome of contention: yet that was a time when few did believe, that that was the Chriſt, ſo his Name was ſpread abroad, he rejoyced in it; but when his Name was ſpread abroad, and covetous men, and proud men, as thou art, and heady men, and men that followed pleaſures, had got the form, but had not the power: which led ſilly wo<g ref="char:EOLhyphen"/>men captive, always learning, and never able to come to the knowledge of the truth, which thou ſhews thy ſelf to be one of them; and the Apoſtle exhorts from ſuch to turn away, 2 <hi>Tim.</hi> 3.1. And what haſt thou to do to talk of Chriſt, and his Diſciples, and <hi>Moſes,</hi> theſe had the immediate inſpiration which thou denyes, who haſt gotten the outward form and
+<pb n="35" facs="tcp:118307:18"/>words of Chriſt, and the Diſciples, as the Phariſees had gotten the form of <hi>Moſes,</hi> and the Prophets; and there thou art j<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dg<g ref="char:EOLhyphen"/>ed withall, who hath the Eternal Spirit, the life of them that gave forth the Scriptures.</p>
+            <p>Obj. <hi>Whereof thou art giving ſences of the end of the world.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> Silence ſence and conſequence; for that proceeds from the world in thy heart, for there it is ſet, for thou confeſſes thou doſt not know the voyce of God, who art loſt in thy ſences, nor never ſhall in that nature who denyes immediate in<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>piration, and ſo denyes the life of the Scripture, and ſhuts thy ſelf out; <hi>For Chriſt is the ſame yeſterday, to day, and for ever.</hi> And his teachers are the ſame, with the ſame Spirit, and all thy whole intent is as to keep people from the voyce of G<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, and imme<g ref="char:EOLhyphen"/>diate inſpiration, and to keep the Letter, and to make Miniſters, with it, which is outward as thou calls it.</p>
+            <p>Obj. <hi>And whereas thou ſayeſt, Chriſt aſcend<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d on high, and hath given gifts unto men.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> Theſe words will condemn thee; are theſe gifts out<g ref="char:EOLhyphen"/>ward? thou art talking of an outward, theſe words Paſtors and Teachers, are the Saints words, and ours, we own th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m but we deny thee, and all thy filthy ſtuff of conſequences, and ſences of the Saints conditions.</p>
+            <p>Obj. <hi>And whereas thou ſayeſt, Till the Saints come to the ſtate of perfection.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> And again thou denyes it, and ſaith, None can attain to it in this world; and here the Scripture will judge thee to be a lyar, which thou ſayeſt, is thy rule; for the Scripture ſaith, <hi>As he is, ſo are we in this preſent world.</hi>
+            </p>
+            <p>Obj. <hi>And thou ſayeſt, but Miniſterial gifts are not to be found in the world which the Miniſters of the Goſpel had.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> Here to the view of all people thou haſt brought thy ſelf un<g ref="char:EOLhyphen"/>the curſe, for if it be not the ſame M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtery and the ſame gifts, it is another; therefore ſilence fleſh, let the Apoſtles alone, com<g ref="char:EOLhyphen"/>mand and charge thee in the preſence of the Lord, who ſayeſt, the gifts are not now to be found in the world, which the Mi<g ref="char:EOLhyphen"/>niſters of the Go<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pel had; here thou haſt cleared thy ſelf, and thy generation from them, if it be not the ſame, it is another, which is contrary; and here thou ſheweſt thy ſelf to be the w<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ch that bewitches people.</p>
+            <pb n="36" facs="tcp:118307:19"/>
+            <p> Object. <hi>Which ſaith, there is now no ſuch gifts as they had, which were Ministers of the Spirit, nor any ſuch Paſtors, Of<g ref="char:EOLhyphen"/>fic<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rs and Teachers now as was then.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> Here again I charge thee in the preſence of the Lord to be a lyar, who hath ſhut thy ſelf in the ſtate of the <hi>Phariſees,</hi> hath cleared thy ſelf from the Church of God, Paſtors, Officers, and Teachers, for the Officers, Paſtors, and Teachers are the ſame now which ever was, we witneſs it, and witneſs thee to be a lyar, and all that are not the ſame Officers, Paſtors, Teachers, and Miniſters of the Spirit, are accuſed, which thou and all thy Generation are guilty of, who are not the ſame Officers, Paſtors, Teachers, and Miniſters as was then and if not the ſame, then they are contrary to Scriptures, and here let the Scriptures condemn thee and them, and here thou deny'ſt your ſelve; to be any Paſtors, Teachers of the Church of Chriſt, who ſaith there is none ſuch now as was then, and we witneſs the Church of Chriſt the Piller and ground of truth, to be the ſame now as e<g ref="char:EOLhyphen"/>ver was, and the ſame Officers, Paſtors, Miniſters, and Teach<g ref="char:EOLhyphen"/>ers of the Spirit as ever was, and yours thou ſayeſt is not the ſame, therefore they are all falſe, contrary to the Scriptures, contrary to the Goſpel, therefore the curſe is upon thee, who ſayeſt, they are not the ſame now as was then, we witneſs Chriſt the ſame yeſterday, to day, and for ever, and what haſt thou to do to talk of eſtabliſhing truth, which ſayes, Officers are not the ſame now as was then, then the truth is not the ſame, nor the Goſpel; there thou ſheweſt thy ſelf to be a gain<g ref="char:EOLhyphen"/>ſayer, and what haſt thou to do to talk of qualifications, who would make truth changeable, truth changes not.</p>
+            <p>Obj. And as thou ſayeſt, <hi>you reaſon there is no believers in theſe latter ages, becauſe thou ſayeſt, they ſhall caſt out de<g ref="char:EOLhyphen"/>vils, and ſpeak with new tongues.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> In thy generation there is not, but they which believe now ſpeak with new tongues, and caſt out devils, that makes thee to vent forth thy blaſphemy againſt them that doth, and here thou ſheweſt thy ſelf to be an unbeliever, let the Scrip<g ref="char:EOLhyphen"/>tures judg thee.</p>
+            <p>Object. And thou ſayeſt, <hi>The Apoſtle requires a waiting upon an outward teaching and exhorting.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> Here thou wouldeſt judg the Apoſtles teaching, which
+<pb n="37" facs="tcp:118307:19"/>is immediate, to be like thy ſelf which are carnal, and without, who denies <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>here is any ſuch Officers, Paſtors, and Teachers now as was then: Here thou prov'ſt thy ſelf to be a Witch, who draws people into another thing, as thou decla<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſt in the 47. page of thy book, in thy anſwer to the eighteenth Query.</p>
+            <p>Obj. <hi>And thou talk'ſt of waiting upon the office, and living upon the Goſpel, a temporary and tranſitory Goſpel, and yet thou d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nieſt the ſame Officers and Teachers as was then.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> There thou art without in another temporary and tran<g ref="char:EOLhyphen"/>ſitory Goſpel, as thou call'ſt it.</p>
+            <p>Obj. And whereas thou ſayeſt, <hi>In theſe daies th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y ſhall heap up to themſelves Teachers.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> This is thy ſelf, O your ſelves, who ſaith, Teachers are not the ſame now as was then, and here thou com'ſt under the Prophecy that <hi>Paul</hi> ſpeaks to <hi>Timothy,</hi> 1 <hi>Tim.</hi> 2.4. for thou confeſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s they are not ſuch as was then.</p>
+            <p>Object. <hi>Whereas thou ſayeſt, Can any rational perſon con<g ref="char:EOLhyphen"/>ceive, how preaching is like to be kept up?</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> The preaching of Chriſt is kept up without thy concei<g ref="char:EOLhyphen"/>ving, for it is not any rational perſon that keeps up preaching, who lives in the conceivings: And again, thou cleareſt thy ſelf from the Miniſters of Chriſt, who were made Miniſters by the will of God, and thou who denieſt the ſame teachings to be now as was then, art one amongſt thoſe Teachers that follows their own luſts, phancies, and fables, and cannot indure ſound Doctrine, having itching ears, turning to fables from the truth, thou haſt confeſſed there is no ſuch Teachers now as was then, therefore thou and thy company art another in your own w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lls, out of the will of God, diſtant from truth, and to be them that <hi>Peter</hi> and the Apoſtle prophecied of, which ſhould come in the laſt time, following your phancies, ſenſes, and conſe<g ref="char:EOLhyphen"/>quences, which the eternal Spirit that gave forth the Scriptures ever judged and condemned ſuch.</p>
+            <p>Object. And whereas thou ſayeſt, <hi>Thou would'ſt have them first proved before approved, and thou alledgest</hi> 1 Tim. 3.10.</p>
+            <p>
+               <hi>Rep.</hi> And thou deny'ſt that Office that was then, that there is none ſuch now, and here thou art diſapproved with the Scri<g ref="char:EOLhyphen"/>ptures, for it diſapproves thee, 1 <hi>Tim.</hi> 3.10. and in the 47. page of thy book.</p>
+            <pb n="38" facs="tcp:118307:20"/>
+            <p> Object. <hi>And in the third particular thou art juſti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ying, ſtanding, praying in the Sinagogues, and thou bring'st</hi> Solo<g ref="char:EOLhyphen"/>mons <hi>examples, who pray<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> in the behalf of</hi> Iſrael.</p>
+            <p>
+               <hi>Reply.</hi> Here thou ſheweſt thy ſelf plainly to be a falſe Pro<g ref="char:EOLhyphen"/>phet indeed, who puts no difference between <hi>Solomons</hi> pray<g ref="char:EOLhyphen"/>ing, and the <hi>Phariſees,</hi> who ſtood praying in the Synagogues.</p>
+            <p>Object. <hi>And whereas thou accuſeſt us, that we are againſt praying.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> Here thou doſt lye, thy praying we deny, who puts no difference between the Heathen and the Saints, but the Saints pravers we own, and <hi>Solomons</hi> praying we own.</p>
+            <p>Object And thou ſayeſt, <hi>Your places cannot hardly be call<g ref="char:EOLhyphen"/>ed as the Jews Sinagogues was, for it was not erected for any ſpiritual uſe.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> No more is yours, for thou denieſt immediate inſpirati<g ref="char:EOLhyphen"/>on, and they that did witneſs imm<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>diate inſpiration, was per<g ref="char:EOLhyphen"/>ſecuted in the Jews Sinagogues; the Saints which meet together in the eternal word denied all the Jews practiſes, which met to<g ref="char:EOLhyphen"/>gether in ſuch a mans <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ouſe.</p>
+            <p>Object. <hi>Fourth particular, and thou doſt lye, in ſaying we would have no meetings.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> Becauſe we do deny ſuch Teachers as thou art, and ſuch practiſes as thou practiſeth, and ſuch meetings, who confeſſes, that you are not the ſame Paſtors and Teachers now as then, ſo then your meetings are not the ſame; but the Teachers as was then we own, and the meetings as was then we own, for truth changes not: But here thou ſheweſt, that thou art changed from it, who hath confeſſed, that your Teachers is not the ſame.</p>
+            <p>Object. <hi>F<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fth particular, thou ſayeſt, we are cavelling at places, and ſtrikes at perſons.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> Thou may'ſt as well ſay Chriſt cavelled at perſons; do not ſpeak Chriſts words, who art thou, that thou car'ſt op<g ref="char:EOLhyphen"/>poſe him, who ſaid, they was called of men Maſter, have the chiefeſt places in the Aſſemblies, ſtand praying in the Sinagogues, and thus he ſhews to the multitude how they may be known, and here thou art known, and ſeen, who would juſtifie that which Chriſt cried againſt in thy ambition, and ſaith, you have not cauſe to reject thoſe things he cried woe againſt, as to be
+<pb n="39" facs="tcp:118307:20"/>called of men Maſter, and have the chiefeſt places in the Aſſem<g ref="char:EOLhyphen"/>blies, thoſe things ſpoke Jeſus to the multitude, and the mul<g ref="char:EOLhyphen"/>titude ſeeing his word, as thou may'ſt read in <hi>Mat.</hi> 23. if you will own the Scriptures to be truth, and thou bring'ſt <hi>Philip,</hi> and the Goalor came to <hi>Paul</hi> and <hi>Silas,</hi> and ſaid Sirs, and theſe words thou bring'ſt to oppoſe Chriſts words, who ſaid, be ye not called of men Maſters: And here thou declar'ſt rhy ſelf to be an open Antichriſt, who oppoſes Chriſt: I charge thee in the preſence of the Lord, for Chriſt ſaith, be not ye called of men Maſter, for ye have one Maſter, even Chriſt, and all ye are Brethren, and thou bring'ſt the Goalors words to oppoſe Chriſt, <hi>Acts</hi> 16.30. Chriſts Doctrine denied to be called of men Ma<g ref="char:EOLhyphen"/>ſter.</p>
+            <p>Object. And thou ſayeſt, <hi>That in</hi> Mat. 23. <hi>thoſe words will ſtand us in no steed, which were Christs words.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> Here thou doſt ſay Chriſts words will ſtand us in no ſtead, thou denieſt his Doctrine, and teacheth for Doctrine the Traditions of men, and there thou ſheweſt another Doctrine which is damnable and curſed.</p>
+            <p>Object. And thou ſayeſt, <hi>The title of Maſtery is a civil reſpect, and importts a civil honour.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> Here thou ſheweſt the Maſter thou ſerves, who denies the Doctrine of Chriſt, and how canſt thou believe, which ſeeks honour of another.</p>
+            <p>Object. And whereas thou ſayeſt, <hi>It is a meer ſlander to ſpeak againſt them who have the chiefest places in the Aſſem<g ref="char:EOLhyphen"/>blies, and art called of men Maſter.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> Here thou might'ſt as well call Chriſt a ſlanderer, who ſpoke againſt all thoſe things which thou ſeek'ſt to juſtifie in the ſight of the world, but in the ſight of God is condemned, and of all who are of God, and by them thou art judged.</p>
+            <p>Object. And whereas thou ſayeſt, <hi>The Apoſtle ſaith, gi<g ref="char:EOLhyphen"/>ving honour, go one before another.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> What haſt thou to do to talk of the Apoſtle, who de<g ref="char:EOLhyphen"/>nies the ſame teaching to be now as was then, for the condition we own, which muſt be honoured? But thou haſt declared thou never heard'ſt Gods voice, nor waits for it, and ſo de<g ref="char:EOLhyphen"/>clares thy ſelf to be a Heathen that knows not God, to whom
+<pb n="40" facs="tcp:118307:21"/>he will render vengeance in flam<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of fire, and that is not honour<g ref="char:EOLhyphen"/>ed of God, nor none of his, but we honour all men in the Lord.</p>
+            <p>Obj. <hi>And whereof thou accuſeſt us of deſtroying rela<g ref="char:EOLhyphen"/>tion.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> All ſuch relations as is contrary to Chriſt, and his Do<g ref="char:EOLhyphen"/>ctrine, we d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ny; And who would take the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>itle from Chriſt to be called of men <hi>Maſter,</hi> and layeſt thou wilt not reject it; h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re thou ſhews forth thy preſumption to be called of m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n <hi>Ma<g ref="char:EOLhyphen"/>ſter,</hi> let all people ſee if you own that Chriſt which the Scrip<g ref="char:EOLhyphen"/>ture ſp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aks of, who forbad it, <hi>Mat</hi> 23. Bu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> you would take the title from him who art for deſtruction, who ſhews that Chriſt never ſent thee, for if he had, you would abide in his Doctrine, which thou doſt deny, and who takes the Apoſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s words to juſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fie that to oppoſe Chriſts words, who ſpoke to them that were in the ſtate of ſervants and Maſters. Earth makes Maſters, but the time will come as with the Maſter, ſo with the ſervant; he that can receive it, let him, as <hi>Philemon, Paul</hi>'s doctrine to him, who can receive it, may.</p>
+            <p>Quer. 19. <hi>Whether a man ſhall <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>v<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r grow up that he need no man teach him under your Miniſtery yea, or no, ſeeing the A<g ref="char:EOLhyphen"/>poſtle ſaith, You need no man teach you, and you which have been long teachers, how many have you brought up in this con<g ref="char:EOLhyphen"/>dition?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> And in thy anſwer to this Query, thou ſayeſt, <hi>Such oppoſition as excludes all humane helps, you do confeſs, That no man is ever like to grow up ſo high.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> Here thou art not ſo far as ſome of thy fellows; for they deny humane helps, though they be in the ſame nature that t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ou art in; and he that grows up in perfection, grows out of ignorance and humane helps; the Ap<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtles ſaid, they knew all things, but this thou haſt denyed, and calls it an hyperbolyc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l expreſſion.</p>
+            <p>Obj. <hi>And thou ſayeſt, they may grow in a ſence under teaching of Ministers among you, to know all the truths of the Goſpel, and yet thou denyes immediate inſpiration, and the ſame teach<g ref="char:EOLhyphen"/>ing <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow as was then; and yet thou ſayeſt in a comparative ſence, they may not need teachers.</hi>
+            </p>
+            <pb n="41" facs="tcp:118307:21"/>
+            <p> 
+               <hi>Reply.</hi> This is thy ſence who haſt denied the Doctrine of C<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd thy confuſed ſtuff which comes out of thy bottle, and <hi>Peters</hi> Ex<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ortation<g ref="char:punc">▪</g> and <hi>Pauls,</hi> thou haſt chared thy ſelf from, for thou ſayeſt, the ſame t<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>chings are not now <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Church of Chriſt we d<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>itneſs to be he p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>liar and ground <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> truth, which you ha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ared your ſelves from, and <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>om the Teachers, Paſt<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s, and Elders of it, who ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, there is none ſuch now, as were th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> would mak<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> truth changeable, and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thou art a <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in thy own g<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion, who knows not God manifeſted in fleſh, juſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d inſpirit, ſeen of Angels, preached unto the <hi>Gentiles,</hi> believed on in the world.</p>
+            <p>Obj. <hi>And you ſay you have anſwered our queſtions agreea<g ref="char:EOLhyphen"/>ble to the Scriptures.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> There is another lye, let the reader read them, and prove whether thou haſt not ſpoken contrary to the Scriptures, and all thy conſequences and ſences are contradicted with us, and den<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d and trampled upon with all knowing Chriſtians, who are in Chriſt; and thou art he whoſe deſire is to deſtroy the Scriptures, who would ſubvert the faith of the Goſp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l, who leads people captive after thy own deluſions, who haſt denied Paſtors, teachers, and Officers now, as in the time of the Apo<g ref="char:EOLhyphen"/>ſti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, and here you have cleared your ſelves to be no Paſtors, no E<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>rs, no Offic<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs, but a likeneſs or an imag<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, which Go<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for<g ref="char:EOLhyphen"/>b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ds; for thou ſayeſt, there is not any ſuc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Officers P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtor, and teachers, as was then, then you are <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>alſe, and to b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> denyed, who are contrary to the Scriptures, for with it you are proved, and with the life judged: and your prayers we d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ny, for God hath opened our eyes, by which <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> you del<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed poor crea<g ref="char:EOLhyphen"/>tures, who are thus ſold under d<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>uſion, as thou <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, and Gods E<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ection thou knows noth<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng of, but are ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d and <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>p <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> by the Devil, who art led captive for the preſent after his will, this all who are in the Eternal light there will thee ſee.</p>
+            <pb n="42" facs="tcp:118307:22"/>
+            <p> ANd <hi>Eaton,</hi> thou ſaith, theſe things thou haſt preſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nted for this end and purpoſe, to obſtruct their way, and ſtop their further proceedings, that their impoſture might prevail no longer.</p>
+            <p>Here thou haſt digged a pit, and art fallen into it, and laid a ſnare, and art taken; I take all the children of light to record, and with the light do judge thee, and to ſee if thou be not in the impoſture, and an high impoſture, and in the witch<g ref="char:EOLhyphen"/>craft.</p>
+            <p>Firſt, Thou doſt aſſert, and thy company, that the Spirit of Chriſt is diſtinct from the Saints, and the Saints from the Spirit.</p>
+            <p>Here thou haſt cleared thy ſelf from the Saints, who were in the Spirit, and to be an impoſture; and this is in thy anſwer to the firſt Query.</p>
+            <p>Secondly, Thou and you ſaith, That you do not apprehend, and ſpeak right of God, and Chriſt, nor the Spirit, nor of your ſelves, nor of the Miniſtery of the Goſpel.</p>
+            <p>Thou haſt delared it, who ſaith that the Spirit is diſtinct from the Saints, and the Saints diſtinct from it, and thou not appre<g ref="char:EOLhyphen"/>hending aright of God, and Chriſt, nor the Saints, and taking thy ſelf to be a Paſtor, thou haft openly deceived thy ſelf to be an impoſture, which art ſtopt, and ſhall proceed no further; and you not apprehending aright of your ſelves, as thou ſaith you do not, declare your ſelves to be blind guides, and not fit to teach others, that doth not know your ſelves, but we know it is ſo, that you do not know your ſelves, and this is in thy anſwer to the fourth Query.</p>
+            <p>And thirdly, you ſay, That ſuch a voice as comes immediately from God, you have not heard of, ſuch an inſpiration as this, you have not received.</p>
+            <p>Thou that haſt not received an immediate inſpiration, and haſt not heard the voyce of the living God; here thou haſt raked thy ſelf from all that did hear the voice of God, and them that had received the immediate inſpiration; here you have turned your ſelves among the Impoſtures. Witches, and Sorcerers, which have not heard a word from the Lord, as thou thy ſelf faith; Let all the children of the light judge thee, if thou be not an im<g ref="char:EOLhyphen"/>poſture,
+<pb n="43" facs="tcp:118307:22"/>and a deceiver, but thou art made manifeſt to the chil<g ref="char:EOLhyphen"/>dren of light, prayſes be to our God, the living God, for ever. And this is in anſwer to the ſeventh Query.</p>
+            <p>Fourthly, Thou ſayeſt, there are no ſuch Paſtors now, no ſuch Officers now, no ſuch Teachers now, no ſuch Mini<g ref="char:EOLhyphen"/>niſters of the Spirit now, nor no ſuch gifts now, as was then.</p>
+            <p>Here thou, and all thy Teachers, and Officers, and Paſtors, are under the Prophecy, as <hi>Peter</hi> ſpeaks of, and <hi>Paul</hi> ſpeaks to <hi>Timothy,</hi> heaps of Teachers; and here thou thy ſelf haſt made them all Impoſtures, and Inchanters, and Sorcerers, and Charmers; if the Paſtors be not now as was then, and the Teachers now as was then, and the Officers now as was then, they are not in the truth, for we do witneſs the ſame ſpirit, now as was then, and the Paſtors and the Teachers the ſame now as was then, made by the ſame Spirit.</p>
+            <p>But thou ſaith, There is none ſuch, and we do believe it, and know it, that there is none ſuch in thy generation, ſo thou haſt cleared thy ſelf, and all thy company out of the truth, and here thou would'ſt make people believe, that the truth is changeable, and here thou ſheweſt that thou haſt not the Spirit that the A<g ref="char:EOLhyphen"/>poſtles had, but the ſpirit of errour, and guided by it, and im<g ref="char:EOLhyphen"/>poſtures, and given over to fables; and this is in thy anſwer to the eighteenth Query.</p>
+            <p>And for the Act of ſprinkling Infants, thou ſayeſt, Some<g ref="char:EOLhyphen"/>thing may be held forth for it, the Blood of Chriſt.</p>
+            <p>Here th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u makes the Blood of Chriſt a figure of ſprinkling Infants, and the ſprinkling of Infants muſt then be the ſubſtance, according to thy words; and yet thou com<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s after, and ſpeaks of Water, Baptiſm, Types of Chriſts Blood; for there is no Scripture that ſpeaks of ſprinkling infants; and here thou art raſced out, and that which thou holds forth, which thou would<g ref="char:EOLhyphen"/>eſt bring to juſtifie ſprinkling <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nfants: For the Blood of Chriſt is the Subſtance: this is in thy anſwer to the ſixteenth Query.</p>
+            <p>And thou ſayeſt, Conſequently God did not intend immedi<g ref="char:EOLhyphen"/>ate teaching, nor to give out in after-ages an immediate voice, which ſhould lead and guide men in the way of Salvati<g ref="char:EOLhyphen"/>on.</p>
+            <pb n="44" facs="tcp:118307:23"/>
+            <p> O thou vain man, God will ſtop thy mouth, and thou muſt be confounded, who denies the everlaſting Covenant of God, who ſaith he will teach his people, and make with them a new Covenant, that all ſhall know God: and he<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e again before the Lord and all the children of God I charge thee, to be an im<g ref="char:EOLhyphen"/>poſture, and there all the children of the light may ſee thee, who are taught of God immediately, and directed, and guided in the way of ſalvation.</p>
+            <p>Thou ſayeſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, thou never heard the voice of God from Hea<g ref="char:EOLhyphen"/>ven, nor received the immediate inſpiration, nor doth not wait for it.</p>
+            <p>Let all the children of the light ſee if thou be not an impoſ<g ref="char:EOLhyphen"/>ture, who hath not heard a word from the Lord, and one of them that <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ns before thou art ſent, which the true Prophet cried againſt.</p>
+            <p>And many Scriptures thou haſt gathered out of the Let<g ref="char:EOLhyphen"/>ter, which wa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſent to thee in anſwer to thy Letter, which thou calls mire and dirt, which thou calls Annotations.</p>
+            <p>Thou high blaſphemer, who hath cleared thy ſelf from the life which gave for h <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Scriptures, which life reacheth over thee, and doth compre<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>end thee, and judge thee eternally; Let all the children of the l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ght, who are led by the E ernal Spirit of Go<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and dwell; Se<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> if thou be not in a pre<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ence of Spirit, who denies the immediate inſpiration of the Spirit, and hearing the vo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce of God; Her<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y ſpe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch bewrays thee, and thy language is known with th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Et<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nal Spirit of God, where it is made ma<g ref="char:EOLhyphen"/>nifeſt, and what ſp<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> it is that dwells in thee, and acts in thee, and rules thee, and t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be in the firſt birth, ſo in the ſnare thou art taken, and into the pit thou art turned, who ſaith theſe per<g ref="char:EOLhyphen"/>ſons alone pretend the Spirit. That is falſe; for we do not pretend we have it, we witneſs it, and thy pretences we do deny.</p>
+            <p>A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d another thing thou brings to fill up thy Book, and make it large; the confeſſion of one <hi>Joh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Gilpin</hi> (a Quaker) Was <hi>John Gilpin</hi> come to the trembling of the D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vils? which power of God m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>de <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>m to confeſs his f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rmer converſation, as in his paper he declares it, and to ſee the deceipt of the Prieſts, and to forſake his drunkenneſs, and was he bewitched with ſuch as
+<pb n="45" facs="tcp:118307:23"/>thou art? who now follow drunkenneſs, and was drunk; that there was a warrant granted out againſt him, and this is one of thy converts, and one of thy ſacrifices, that thou puts up to the ſupream Authority, which the Authority ſtrikes down all ſuch things.</p>
+            <p>And another Sacrifice thou offers up againſt them whom the world calls Quakers; a diſcovery of myſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cal Antichriſt, diſ<g ref="char:EOLhyphen"/>playing Chriſt's Banners, but attempting to lay waſte Scripture, Goſpel, Chriſt, Fa th, Hope, and concerning an Examination of the doctrine, and way of the Quakers in <hi>Yorkſhire,</hi> written by <hi>John Pomroy, Paul Gliſſen, Joſeph Kellet.</hi>
+            </p>
+            <p>We are acquainted with your generation, and your reproaches to us are riches, and your ſlanders; for them you will be re<g ref="char:EOLhyphen"/>warded, and your portion for your lyes is the lake, and its well they have ſet their names to theſe lyes, <hi>John Pomroy, Paul Gliſ<g ref="char:EOLhyphen"/>ſen, Joſeph Kellet,</hi> that they may be known: For with the chi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>dren of light they are, and their Spirit tried, had they not uttered forth their names, and their voice diſcerned, and the Eternal Light of God ſees them, which ſhall be their eternal condem<g ref="char:EOLhyphen"/>nation, and the Judgement of God will fall upon hem for th ir lyes, and ſlanders, for them that they call Quakers; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>usking we own, elſe we ſhould lay waſte the Scriptures, as you do: For <hi>David</hi> quaked, <hi>Moſes</hi> quaked, and <hi>Paul</hi> trembled, and <hi>Habbakuk</hi> quivered, and <hi>Jeremy</hi> ſhaked, and theſe were in the faith, and hope, and theſe had the life of the Scriptures, a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>co<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d<g ref="char:EOLhyphen"/>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g to their meaſure. Now let all people ſee, if <hi>John Pomroy, Paul Gliſſen,</hi> and <hi>Joſeph Kellet,</hi> wh ch have digg<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d a p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t for others, ſee if they be not fallen into it themſelves<g ref="char:punc">▪</g> who are lay<g ref="char:EOLhyphen"/>ing waſte the Scriptures; for the Goſpel of Chriſt we own, and the Scriptures are ours, and the Doctrine of Chriſt we live in, and Faith, and Hope, and not laying waſte the Scripture, but all ſuch as make trades on the Scripture, ſuch we would have laid waſte.</p>
+            <p>And thou <hi>Eaton,</hi> and the reſt, who ſaith there are no ſuch Officers now, no ſuch Teachers now, no ſuch Paſtors now, as was then: Doſt not thou here lay waſte the Scripture, and haſt ſhewed thy ſelf to be one of them, and can impoſture that what thou knows, thou knows naturally, which were ordained of
+<pb n="46" facs="tcp:118307:24"/>old for condemnation, as <hi>Jude</hi> ſpeaks of, for thou denies im<g ref="char:EOLhyphen"/>mediate inſpiration, and thou denies hearing the voice of God, when Chriſt is the ſame to day, yeſterday, and for ever; and they that are of God hear his word, and they that hear his word he<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r his voice; and here thou haſt ſhewed thy ſelf that thou art not of God, and the Goſpel is the ſame, which is the pillar and ground of truth.</p>
+            <p>And another thing, thou <hi>Eaton,</hi> ſets as a witneſs againſt them, whom thou calls Quakers, which word thou ſpake in thy letter to <hi>Richard Walter,</hi> and thou ſaid'ſt Satan had filled his heart with ſuch fogs and miſts, and darkneſs<g ref="char:punc">▪</g> and this is in thy <hi>page</hi> 56. and this is in thy own letter, which thou would<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt ſlan<g ref="char:EOLhyphen"/>der us with thy own words, which came out of thy own bottle.</p>
+            <p>But, O thou Enemy of good, thy door is ſet open, and what is in thy houſe is ſeen, and wh<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> is in thy bottle pours out, and ſo for the truths ſake, becauſe an evil report and ſlander ſhould not reſt upon <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t; and for the ſimple ones, and d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>luded ones, that are ſubject to catch at his hiſtories and reports. So for the trut<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s ſake have I given forth this, not to be juſtified of man, nor to b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> known outward<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, but to be known to the Lord God, and of him to be juſtified, and not to ſtir up ſtrife or war, but that truth might be ſet up, and all d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ceit confounded, and the ſim<g ref="char:EOLhyphen"/>ple ones directed, and their minds guided to God to hear his voice, and to wait upon him, that they might come into the life of the Scriptures, that they were in, that gave them forth, which thou haſt declared that thou haſt not, neither doſt thou wait for it, ſo ſhews thy ſelf to be an impoſture, and keeps all in the pit, and from hearing the voice of the living God.</p>
+            <p>And as for railing, ſuch we deny, and all ſuch as lay waſte Scripture, and live not the life of it, and Chriſt, and ſaith, and hope, but in their places we own all as it was given forth; and here be thou <hi>Samuel Eaton,</hi> and <hi>John Pomroy,</hi> and <hi>Paul Gliſſen,</hi> and <hi>Joſeph Kellet,</hi> to that in your conſciences I ſpeak, that it may witneſs againſt you, that you are witneſſes againſt the truth of God, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hem that live in it, who hath publiſhed forth your lyes and ſlanders, who are for the Lake. And thou <hi>Samuel Eaton,</hi> who makes a colour of anſwering the Queries, thou haſt made many Queries, and hath anſwered thy own,
+<pb n="47" facs="tcp:118307:24"/>let the Reader of thy Book but take notice, and ſee thy deceit, and impoſture, which thou ſo often accuſes them, that thou calls Quakers with, which therein thou art comprehended thy ſelf with the children of light, and I leave thee to be judged with them all, becauſe thou haſt publiſhed thy Book openly, let all the children of the light judge thee what ſpirit thou art guided by, who denyes immediate inſpiration.</p>
+            <p>And in thy Anſwer to the ſeventeenth Query, thou ſlanders the Apoſtle, and ſaith it was a hyperb<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lycal Speech, when the Apoſtle ſaid, they knew all things, and needed no man to teach them, but as the ano<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing, and this thou ſayeſt was an hyper<g ref="char:EOLhyphen"/>bolycal expreſſion, O vain man; where did the Apoſtle give <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orth any ſuch expreſſions? thou would'ſt make him a lyar like <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hy ſelf, who cannot own his words, therefore do we own the Apoſtle, who ſpoke plainly, and deny thee, with thy hyperbo<g ref="char:EOLhyphen"/>lycal expreſſions, who art in the wiſdom of words, and ſlan<g ref="char:EOLhyphen"/>ders the Power of God, which makes the earth to tremble, in wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch power ſtood the Saints faith, and wiſdom, as the Apoſtle ſpoke to the <hi>Corinthians,</hi> in which Spirit and Power of the li<g ref="char:EOLhyphen"/>ving God ſtands our ſaith and wiſdom, and not in the wiſdom of the world, which wiſdom we ſee all comes to nothing, which wiſdom thou lives in, and ſo with the world thou mayeſt be juſtified, for it loves its own, and in it thou mayeſt have many witneſſes; but thou doſt not know, as thou haſt confeſſed, and with him no lyar nor ſlanderer, nor with them who are Gods.</p>
+            <p>Thou ſayeſt, The Church of Chriſt, is the pillar and ground of truth, and doth witneſs the truth contained in the Scripture.</p>
+            <p>But this is anothers, and not thine; for thou canſt not wit<g ref="char:EOLhyphen"/>neſs it to be the pillar and ground of truth, but art an enemy to it, and denyes the immediate inſpiration, and hearing the voyce of the living God.</p>
+            <p>And thou aſſerts that the Myſtery of Godlineſs is great.</p>
+            <p>Thou mayeſt aſſert it, for godlineſs is a myſtery to thee, thou knoweſt it not, but he that ſpoke theſe words, <hi>God ma<g ref="char:EOLhyphen"/>nifeſted in the fleſh, juſtified in the ſpirit,</hi> witneſſed theſe words as he ſpoke them, and to ſuch as thee it is a myſtery
+<pb n="48" facs="tcp:118307:25"/>without any conſequences, or <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ences, thou mayeſt very well aſ<g ref="char:EOLhyphen"/>ſert it, for thou art without God i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the world.</p>
+            <p>And as for El ction thou knows nothing of; <hi>For his ſecrets are with them that fear him:</hi> and thou denies ever hearing his voice, therefore how ſhould th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u know his Secrets, and there let thy mo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th be ſtept, for thou knows not what is elect<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, whic<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> art pleading for ſin, and for the D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>v<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l, and denie<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rfe<g ref="char:EOLhyphen"/>ction and pu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, ſo thou art without among the dogs, and the Whoremongers, and the Adulterers, and there we leave thee.</p>
+            <p>And thou who ſayeſt, thou never heardſt Gods voyce, (nor doſt not wait for it) nor never ſhalt in the ſtate thou art in, though thou ſayeſt, thou haſt confuted the Quakers, but it is with that nature which is for utter c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nfuſion and d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtruction, and that which thou ſayeſt thou haſt confu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed, ſhall confound thee, and thy gene<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ation, and all who are in the l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ght may ſee thy pride, and hypocriſie.</p>
+            <p>And as thou ſayeſt, Our ſpeech bewrayeth us, but it is made manifeſt to all, who is in any meaſu e e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lightened, that thy ſp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ech bewrayeth thee, what generation then, and art of which never heard the voyce o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> God, that thou knows not the Spirit of God, where it is mad<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> man feſt, neither art thou guid<g ref="char:EOLhyphen"/>ed by the light of thy conſcience; but art warring for the De<g ref="char:EOLhyphen"/>vil againſt the Lamb, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Saints; but the Lamb ſhal<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> get the victory over ſuch beaſts, and falſe prophets as thou art: Pray<g ref="char:EOLhyphen"/>ſes be to our God, the living God, for evermore. And ſo grace and peace be mul<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iplied among all thoſe that love the Lord Je<g ref="char:EOLhyphen"/>ſus Chriſt.</p>
+         </div>
+         <div type="reply">
+            <pb n="49" facs="tcp:118307:25"/>
+            <head>A Reply to a Book which is full of lies, and ſlanders, ſet forth by <hi>Higgiſon,</hi> a Prieſt in <hi>Weſtmerland,</hi> which he writ againſt the Northern <hi>Quakers,</hi> as he calls them.</head>
+            <p>FIrſt, Thou gives an <hi>Epiſtle</hi> to the CHRISTIAN READER.</p>
+            <p>
+               <hi>Reply.</hi> O how dar'ſt thou mention Chriſtians, who appears ſo openly to be an enemy to them! For when one <hi>Thomas Holme</hi> came to thee, to ſpeak to thee in the Steeple-houſe, he was cru<g ref="char:EOLhyphen"/>elly beat, and his clothes rent and torn, and ſet in the ſtocks; and this was by thy Church, as thou calls it, and is this thy con<g ref="char:EOLhyphen"/>ferring with Chriſtians?</p>
+            <p>And thou ſayeſt in thy <hi>Epiſtle,</hi> Thou would'ſt not have the Government of this Nation to read thy Book, not as lying lines.</p>
+            <p>And how haſt thou proved thy ſelf to be a lyar in thy own Congregation? who ſaith, you do not perſecute, and beſides hundred of places more I might mention, where they have been, and are daily impriſon<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, and ſtockt.</p>
+            <p>And in thy ſeventh Page to thy Book, thou gives to the Rea<g ref="char:EOLhyphen"/>der a ſtory of one <hi>Fox,</hi> as going to a Gentlemans houſe in <hi>Cum<g ref="char:EOLhyphen"/>berland,</hi> with one or two more men, and one of the houſe came to them, and asked to know their buſineſs, and they asked if the Gentleman of the houſe was within, and called him by name.</p>
+            <p>O <hi>Higgiſon,</hi> thou lyar, and ſlanderer, I charge thee to men<g ref="char:EOLhyphen"/>tion that mans name, which him, which thou calls <hi>Fox,</hi> as thou ſayeſt, went to in <hi>Cumberland;</hi> him that thou calls <hi>Fox</hi> had not been in <hi>Cumberland</hi> then; And here I charge thee <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the pre<g ref="char:EOLhyphen"/>ſence of the living God to be a lyar, who art a publiſh r of lyes, who art impudent, and brazen, and hardened in thy deceit.</p>
+            <pb n="50" facs="tcp:118307:26"/>
+            <p> And thou ſayeſt, the Gentleman took them aſide, and they told him they were ſent to him from God.</p>
+            <p>
+               <hi>Reply.</hi> And as for the Gentleman's taking him that thou calls <hi>Fox</hi> aſide, it is a lye, and a ſlander, there was never no ſuch thing.</p>
+            <p>And as for ſaying, that he heard a voice, that is ano her of thy lyes, and ſlanders.</p>
+            <p>And as he whom thou calls <hi>Fox,</hi> calling for a little water at the Gentlemans houſe.</p>
+            <p>Thou lyar, here I charge thee to be a lyar again, he was ne<g ref="char:EOLhyphen"/>ver there. And as for him thou calls <hi>Fox,</hi> going to an Ale-houſe, and deſiring the hoſt to provide meat, O thou ſlanderer and ly<g ref="char:EOLhyphen"/>ar, here I charge thee in the preſence of the living God to be no Miniſter of Chriſt, but in iniquity. And let the Gentleman in <hi>Cumb<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rland</hi> witneſs againſt thee.</p>
+            <p>And le<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Reader of thy Book, read with a ſingle eye, and he will ſee it is come out of the generation of lyars, a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d will be aſhamed that ever ſuch as thou ſhould be mentioned to be a Min ſter of Jeſus Chriſt, who ſued one of thy hearers for two-pe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce. And <hi>Higgiſon,</hi> who art for deſtruction in the lake that burns, where the portion of all lyars is, to that in thy conſci<g ref="char:EOLhyphen"/>ence I ſpeak, which ſhall be a witneſs againſt thee, and con<g ref="char:EOLhyphen"/>demn thee.</p>
+            <p>Here are more of thy lyes and ſlanders that thou caſts upon him whom thou calls <hi>Fox,</hi> And th u P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ieſt <hi>Higgiſon</hi> ſaith, that he cr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pt into the Countrey, whom thou calls <hi>Fox.</hi>
+            </p>
+            <p>O thou lyar, and ſlanderer, thy Book is nothing but lyes, and ſlanders, and flatteries, let all the Country witneſs againſt thee to be a lyar, who art the envious man, that art ſowing thy ſeed, but thy ſeed is ſeen, and known.</p>
+            <p>And, O thou <hi>Higgiſon,</hi> thou filthy lyar, and ſlanderer of him whom thou calls <hi>Fox,</hi> in the eighteenth Page that thou gives to the Reader, as a filthy lying ſlander which ſhall turn upon thy ſelf, the earth may open and ſwallow thee up quick.</p>
+            <p>Thou ſayeſt, that ſome Perſon of quality, brought this thy lying ſtory to <hi>Kendal,</hi> which thou haſt cauſed to be put in print, and told what diſorder he had cauſed in the Country, and here thou envious man art ſowing thy wicked ſeed, lyes, and ſlan<g ref="char:EOLhyphen"/>ders,
+<pb n="51" facs="tcp:118307:26"/>who art one of the Devils ſervants, but thou art diſcover<g ref="char:EOLhyphen"/>ed, and ſhalt proceed no further, as in thy Book thou haſt de<g ref="char:EOLhyphen"/>clared thy ſelf, to be more openly known then thou was before, though thou was known to the children of light before.</p>
+            <p>And thou <hi>Higgiſon</hi> ſaith, He was in a certain houſe, together with many of his Diſciples, thou ſlanderer who makes di<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ur<g ref="char:EOLhyphen"/>bance in the Country, and ſo this ſhall return upon thy ſelf. And another lying ſtory thou tells of the Devils diſcovering him to be of his Veſſel and Agent, and which cauſed many of his followers to deſert him, as he was ſpeaking in a certain houſe, procur<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d <hi>Foxes</hi> apprehenſion, and impriſonment in <hi>Notting<g ref="char:EOLhyphen"/>ham</hi> Caſtle, till he ran away with his Keeper.</p>
+            <p>O thou ſlanderer, and lyar, who art of the Devil, and for the Lake, they in <hi>Nottingham</hi> Town, and Shire, will witneſs a<g ref="char:EOLhyphen"/>gainſt thee, he that was with his Keeper, whom thou calls <hi>George Fox,</hi> was the Sheriff. He was kept at his houſe. And of ſaying he was taken at a houſe, and carried to priſon to <hi>Not<g ref="char:EOLhyphen"/>tingham.</hi> Caſtle; theſe are ſlanders and lyes, and they in <hi>Not<g ref="char:EOLhyphen"/>tingham</hi> will witneſs thee to be a Miniſter of the Devil, who miniſters lies.</p>
+            <p>Thou Prieſt <hi>Higgiſſon,</hi> O thou impudent, Him that thou calls <hi>George Fox,</hi> as ſaying, he run away with his Keeper from <hi>Nottingam</hi> Caſtle, they all in <hi>Nottingam</hi> Town, will witneſs again thee to be a lyar, and ſlanderer: And him that thou calls <hi>George Fox,</hi> was hayled out of a Steeple-houſe to priſon, for ſpeaking to a Prieſt of thy generation, who ſpake lyes as thou doſt; And here thou <hi>Higgiſſon,</hi> I charge thee in the preſence of the living God to be a lyar, who art a veſſel for Satan to dwell in.</p>
+            <p>And thou lyar and ſlanderer, who ſaith he was accuſed for ſorce<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, but ſorcery is thy own, for he is of God, and in him is no gu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le, but upright, godly, and a juſt man, and innocent.</p>
+            <p>And thou <hi>Higgiſſon,</hi> haſt written forth many lyes, and ſto<g ref="char:EOLhyphen"/>ries, and fables, and ſo ſhews thy ſelf to be one of thoſe that the Prophet propheſies of, who art given up to follow fa<g ref="char:EOLhyphen"/>bles and lyes, who hath uttered forth thy lying ſtories; but thou and a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l thy lyes are for the lake that burns, and the fi e and the pit eternally, and the ſnare, whoſe mouth muſt be ſtopt, and thou ſhalt proceed no further, for the whole Countrey will <gap reason="missing" extent="2 pages">
+                  <desc>〈2 pages missing〉</desc>
+               </gap>
+            </p>
+            <pb n="54" facs="tcp:118307:27"/>
+            <p> His lies and ſlanders are theſe: Firſt, That <hi>Benet</hi> ſhould pri<g ref="char:EOLhyphen"/>ſon him for ſaying, That that Chriſt that dyed at <hi>Jeruſalem</hi> was a togue. 2. That a woman a follower of him, went up and down to get ſome to kiſs her. We <hi>Robert Withers</hi> of <hi>Kellet,</hi> and <hi>James Taylior</hi> of <hi>Neuton,</hi> both in the County of <hi>Lancaſter,</hi> being moved of the Lord for the truths ſake to go to <hi>Derby,</hi> and the Countrey thereabouts, to ſearch out the lyes, and ſlanders, and reproaches, which <hi>Benet</hi> a Member of the Houſe of Parliament, and Juſtice of Peace in <hi>Derby,</hi> caſt upon the truth; and the innocent by which all the innocent ſuffer: we did not go, becauſe we did not know the truth and falſneſs of theſe things before; for the truth that is made manifeſt a<g ref="char:EOLhyphen"/>mongſt us doth teſtifie aga<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nſt all theſe things, but that an evil report ſhould not reſt upon it, that they who be in ſimpl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>city, ſhould not ſtumble; and when we came into the Town of <hi>Derby,</hi> and Countrey thereabouts, we did with much diligence ſearch and inquire of his life and converſation, and doctrine: and then they cried out in the Town of <hi>Derby,</hi> and thereabouts, againſt <hi>Benet's</hi> filthy lyes, and ſcandals; and ſaid, tha they muſt needs witneſs againſt him: the contrary; and that <hi>George Fox</hi> did always declare againſt that, and all other ſuch filthy practi<g ref="char:EOLhyphen"/>ſes, and never ſuch a word came out of his mouth, as to ſay, That that Chriſt that dyed at <hi>Jeruſalem</hi> was a rogue; and they in <hi>Derby,</hi> and the Countrey thereabouts could tell the words which he impriſoned him for almoſt a whole year: which was no breach of any Law; ſo when he had put him in the Houſe of Correction, put him in the Dangeon, and kept him in four priſons, almoſt a whole year; and then when he would not ſatisfie his will, and that no Law could take hold on him; then <hi>Benet</hi> ſtruck him, and commanded the under-Goa<g ref="char:EOLhyphen"/>ler to put him out of the Town, half a mile, or a mile: and this many in <hi>Derby,</hi> and the Countrey thereabouts, w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll witneſs: ſo we being willing that the thing ſhould be known openly, as we declared it openly: We have got the Copy of the <hi>Mitimus</hi> of the Maſter of the Houſe of Correction, whither he ſent him; &amp; a Copy of the Heads of the words which he ſpoke, when they exa<g ref="char:EOLhyphen"/>mined him: and this we bear witneſs to in the preſence of God.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>James Telor.</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Widder.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="summary">
+            <pb n="55" facs="tcp:118307:27"/>
+            <head>The Heads of the words that <hi>George</hi> ſpoke, when they examined him.</head>
+            <p n="1">1. THey asked why they came thither: We ſaid, God mo<g ref="char:EOLhyphen"/>moved us; ſo ſaith <hi>Peter,</hi> And <hi>God doth not dwell in Temples made with mens hands,</hi> as ſaith <hi>Stephen.</hi> We ſaid, Look at Chriſt in you, and not at men. We ſaid, Chriſt is in us, and hath ſanctified us; ſo ſaith the Apoſtle: <hi>To the Saints ye were unclean, but now are ye waſhed.</hi> They asked us, Had we no ſin? I ſaid, No: and in Chriſt was no ſin. They ſaid, Where is Chriſt? And we ſaid, In us: and he hath taken away our ſin; ſo ſaith <hi>John, We abiding in him, ſinneth not.</hi> They ask<g ref="char:EOLhyphen"/>ed us, How we knew that Chriſt did abide in us? And we ſaid, By his Spirit, that he hath given us. They ſaid, Was we Chriſt? And we ſaid, We were noth<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng, Chriſt was all. And they ſaid, If a man ſteal is it no ſin? And we ſaid, All un<g ref="char:EOLhyphen"/>righteouſneſs is ſin; and they ſtumbled at it: and many other words were ſpoken, but theſe are the Heads.</p>
+         </div>
+         <div type="writ">
+            <head>A Copy of the <hi>MITTIMUS.</hi> To the Maſter of the Houſe of of Correction in <hi>Derby,</hi> Greeting,</head>
+            <p>WEe have ſent you here the Bodies of <hi>George Fox,</hi> late of <hi>Munsfield,</hi> in the County of <hi>Nottingham,</hi> Cord<g ref="char:EOLhyphen"/>winder, and <hi>John Fretwel,</hi> late of <hi>Stainſby,</hi> in the County of <hi>Derby,</hi> Husbandman, brought before us this preſent day, and charged with the avowed uttering, and bro<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ching of divers blaſphemous opinions, contrary to a late Act of Parliament, which upon their examination before us, they have confeſſed: theſe are therefore to require you forthwith upon ſight hereof to receive them, the ſaid <hi>George Fox,</hi> and <hi>John Fretwel,</hi> into your cuſtody, and them therein ſafely to keep during the ſpace of ſix months, without bail, or main-priſe; or until they ſhall find ſufficient Sureties to be of good behaviour, or be there de<g ref="char:EOLhyphen"/>livered by Order from our ſelves hereof you are not to ſail: gi<g ref="char:EOLhyphen"/>ven under our hands and ſeals this thirtieth Day of <hi>October,</hi> 1650.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Jeremy Benet.</hi>
+                     </item>
+                     <item>
+                        <hi>Nathaniel Barton.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
